@@ -1,0 +1,42 @@
+---
+title: "Instructions"
+format: html
+editor: source
+---
+
+From Andreas May 2024:
+
+Hi there
+So I managed to get to this today, and hopefully what I have done makes sense. Below is the objective and assumptions.
+
+Basal metabolic rate for mammals is a highly defined concept and where the metabolic rate should be measured in:
+
+- Animals that have fasted (do not experience elevated metabolism from digestion=Ioulias project)
+- Adult (only adults are measured to avoid potential contribution from growth)
+- Animals in thermoneutral zone (not known for most animals but we assume that they are thermally stable if in an environment where they normally live=at least for mammals). This is also tricky for semi-aquatic animals as it depends on if they are measured on land or in water. I asked them to get/mesure in both for pinnipeds (not relevant for aquatic and terrestrial mammals as they have not data in the other). So for semi aquatic mammals, I took the temperature where they were measured (called location in data)
+- Not pregnant nor lactating
+- Resting but not sleeping (this is very difficult for some species as we want to avoid to test on ‘trained’ animals and do opportunistic measurements so I therefore asked them to score activity level from 1 to 3, with 1=rest, 2=minimal activity, for example a dolphin moving slowly, or 3=active. The option, I think is to clean the data and only include 1s but do not like to do this and rather include all activity levels and let the results tell me what is going on. Then we can make the prediction plots by setting it for animals at rest. Does that work or is it better to ‘screen’ and clean the data?
+- So I want to provide allometric relationship(s) for body mass against breathing frequency (both should be common log transformed as that agrees with data from basal metabolism). The log10-body mass parameter provides me with a comparison from other studies, the so-called allometric mass-exponent so the cross term with habitat is important as it tells us if the slopes differ.
+
+In the model, I then include:
+- Log10-breathing frequency as response variable
+- Log10-body mass, as this is how it varies with body mass and what I am really interested in
+- Habitat: if animals are terrestrial, aquatic or semi-aquatic (these last one were measured both in water and on land-which is variable Location)
+- Location: Only for semi-aquatic animals and as there are no observation for the other habitats, not sure if this will cause some issues, but wanted to see how in water or air affects their breathing frequency. Or maybe it is better to exlucde this and then do a separate analysis for only this group of animals?
+- Temp: the temperature where animals are measured, either air-terrestrial, or water-aquatic (or where they were measured in water or air for semi-auqatic)
+- Activity: activity level during measurement (used to control for activity but I am really only interested in 1=rest)
+
+I can explain the output under “Fitting the model” and the best model is the one with the interaction. However, not sure I can really do this as there are no observations for location in air for aquatic or in water for terrestrial?
+
+The acf plot suggest that there is autocorrelation for lag 2 and 3, but not sure I need to worry about these?
+
+For the other tests, it seem to pass ok.
+
+For the “Prediction Plot” section, can we make all these for animals at activity level 1, and would it make sense to have a 4th prediction for semi-aquatic both in air and in water?
+
+Together, I think this will make sense, but not sure if it is statistically valid?
+
+I have attached my R code which was modifed from the students. If it is ok, can you ‘revise’ that for the figures and any other edits,and then I can edit the text between sections and we can use for submission? Is it possible to ‘extract’ figures for submission from this? May need to edit it for submission and may need help with that.
+Hope this makes sense?
+Best
+andreas

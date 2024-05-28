@@ -195,6 +195,8 @@ For the prediction plots shown below, the other predictors in the model but not 
 - activity level: 1
 - location: water for aquatic, air for terrestrial, both for semiaquatic
 
+Because predictions were made for activity level 1 specifically, the data shown in these graphs *excludes* observations at activity levels other than 1 (so not all datapoints to which the model was fitted are shown in this plot -- only the activity level = 1 ones).
+
 ```{r}
 predictoutput <- ggpredict(model_full,
                            terms = c('log_Mb', 'habitat', 'location'),
@@ -211,7 +213,7 @@ natural_preds <- data.frame(mass = 10^predictoutput$x,
                             habitat = predictoutput$group,
                             location = predictoutput$facet)
 # plot data
-gf_point(breath_rate ~ body_mass | habitat, color = ~location, data = breath_data,
+gf_point(breath_rate ~ body_mass | habitat, color = ~location, data = breath_data |> filter(activity_level == 1),
          alpha = 0.3) |>
   # with log scales on both axes
   gf_refine(scale_x_log10(), scale_y_log10()) |>
@@ -231,7 +233,7 @@ gf_point(breath_rate ~ body_mass | habitat, color = ~location, data = breath_dat
 **Interactive Prediction Plot**
 
 ```{r}
-gf_point(breath_rate ~ body_mass | habitat, data = breath_data,
+gf_point(breath_rate ~ body_mass | habitat, data = breath_data |> filter(activity_level == 1),
          alpha = 0.3, tooltip = ~common_name, color = ~order) |>
   # with log scales on both axes
   gf_refine(scale_x_log10(), scale_y_log10()) |>

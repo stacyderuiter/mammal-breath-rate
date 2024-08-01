@@ -49,3 +49,7 @@ rsconnect/
 
 # old stuff
 old-stuff/
+
+# private contact info
+student-contact-info.*
+student-contact-info*

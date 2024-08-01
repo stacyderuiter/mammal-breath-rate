@@ -289,10 +289,3 @@ gf_point(breath_rate ~ body_mass | habitat, data = breath_data,
 
 
 
-## Contact Information
-
-Elliot Stielstra ees45\@calvin.edu 616-634-3423
-
-Simon Rylaarsdam Simon.c.Rylaarsdam\@gmail.com 616-752-0007
-
-Ethan Wilstermann 3wilster\@gmail.com 616-617-1436

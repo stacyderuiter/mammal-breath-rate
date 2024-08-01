@@ -4,6 +4,14 @@ format: html
 editor: source
 ---
 
+TODO July 2024
+
+Issue is, new data wont be arriving until around August and can we “pre” everything and then do a final run of everything and send you and alter numbers? So what I am trying to say is that, can we bring it to “almost” ready or will that be a huge waste of your time as it needs to be redone again later? If so, let’s wait and I will do what I can for now and then we wait.
+
+Also, would need help, or guide me to a resource, how to create the interactive figure with all data, the estimated regression lines and also how I “add” some data points from other studies? I would like to add the sea otter and polar bear, which were not part of this study.
+
+--------------------------------
+
 From Andreas May 2024:
 
 Hi there

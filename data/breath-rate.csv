@@ -46,14 +46,14 @@ Bottlenose dolphin,Al,M,182,6,5,1,DolphinCo-Cayman,36,182,M,1.2,Artiodactyla,Del
 Bottlenose dolphin,Alana,F,124,7,3,1,Kolmarden,5,124,F,2.3,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.093,0.368,aquatic,2.333458062,22,water
 Bottlenose dolphin,Alana,F,124,12,5,2,Kolmarden,5,124,F,2.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.093,0.38,aquatic,2.398832919,22,water
 Bottlenose dolphin,Alana,F,124,8,5,1,Kolmarden,5,124,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.093,0.204,aquatic,1.599558029,22,water
-Bottlenose dolphin,Alana,F,127.5,9,5,,Kolmarden,5,127.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.106,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Alana,F,127.5,9,5,2,Kolmarden,5,127.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.106,0.255,aquatic,1.798870915,21,water
 Bottlenose dolphin,Alana,F,127.5,11,5,1,Kolmarden,5,127.5,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.106,0.342,aquatic,2.197859873,21,water
-Bottlenose dolphin,Alana,F,127.5,9,5,,Kolmarden,5,127.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.106,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Alana,F,127.5,9,5,2,Kolmarden,5,127.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.106,0.255,aquatic,1.798870915,21,water
 Bottlenose dolphin,Alegria,F,172,6,5,1,DolphinCo-Cayman,36,172,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.236,0.079,aquatic,1.199499303,29,water
 Bottlenose dolphin,Alegria,F,172,5,5,1,DolphinCo-Cayman,36,172,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.236,0,aquatic,1,29,water
 Bottlenose dolphin,Alegria,F,172,5,5,1,DolphinCo-Cayman,36,172,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.236,0,aquatic,1,29,water
 Bottlenose dolphin,Alicia,F,155,8,5,3,DolphinCo-PuntaCana,8,155,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.204,aquatic,1.599558029,28.69,water
-Bottlenose dolphin,Alicia,F,155,9,5,,DolphinCo-PuntaCana,8,155,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.255,aquatic,1.798870915,28.84,water
+Bottlenose dolphin,Alicia,F,155,9,5,3,DolphinCo-PuntaCana,8,155,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.255,aquatic,1.798870915,28.84,water
 Bottlenose dolphin,Alicia,F,155,10,5,2,DolphinCo-PuntaCana,8,155,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.301,aquatic,1.99986187,29.2,water
 Bottlenose dolphin,Alma,F,170,4,5,1,DolphinCo-Cayman,39,170,F,0.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.23,-0.097,aquatic,0.799834255,29,water
 Bottlenose dolphin,Alma,F,170,5,5,1,DolphinCo-Cayman,39,170,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.23,0,aquatic,1,29,water
@@ -66,7 +66,7 @@ Bottlenose dolphin,AMADEUS,M,119,12,5,2,DolphinCo-Maroma,10,119,M,2.4,Artiodacty
 Bottlenose dolphin,AMADEUS,M,119,13,5,2,DolphinCo-Maroma,10,119,M,2.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.076,0.415,aquatic,2.600159563,30,water
 Bottlenose dolphin,AMADEUS,M,119,17,5,3,DolphinCo-Maroma,10,119,M,3.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.076,0.531,aquatic,3.396252726,31,water
 False killer whale,Amma,F,667,9,9.5,1,Okinawa-Chumari,NA,667,F,0.9,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.824,-0.023,aquatic,0.948418463,21.8,water
-False killer whale,Amma,F,667,27,16,1.5,Okinawa-Chumari,NA,667,F,1.7,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.824,0.227,aquatic,1.686553025,21.8,water
+False killer whale,Amma,F,667,27,16,3,Okinawa-Chumari,NA,667,F,1.7,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.824,0.227,aquatic,1.686553025,21.8,water
 Bottlenose dolphin,Anaeli,F,97,8,5,1,DolphinCo-Cozumel,10,97,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,1.987,0.204,aquatic,1.599558029,27.8,water
 Bottlenose dolphin,Anaeli,F,97,10,5,2,DolphinCo-Cozumel,10,97,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,1.987,0.301,aquatic,1.99986187,28.1,water
 Bottlenose dolphin,Anaeli,F,97,9,5,1,DolphinCo-Cozumel,10,97,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,1.987,0.255,aquatic,1.798870915,27.9,water
@@ -98,9 +98,9 @@ Bottlenose dolphin,Archer,M,157.7,7,5,1,MississipiAquarium,9,157.7272727,M,1.4,A
 Bottlenose dolphin,Ariel,F,183,13,5,1,Kolmarden,27,183,F,2.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.262,0.415,aquatic,2.600159563,22,water
 Bottlenose dolphin,Ariel,F,183,8,5,1,Kolmarden,27,183,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.262,0.204,aquatic,1.599558029,22,water
 Bottlenose dolphin,Ariel,F,183,8,5,1,Kolmarden,27,183,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.262,0.204,aquatic,1.599558029,22,water
-Bottlenose dolphin,Ariel,F,182.5,9,5,,Kolmarden,27,182.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.261,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Ariel,F,182.5,10,5,,Kolmarden,27,182.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.261,0.301,aquatic,1.99986187,21,water
-Bottlenose dolphin,Ariel,F,182.5,10,5,,Kolmarden,27,182.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.261,0.301,aquatic,1.99986187,21,water
+Bottlenose dolphin,Ariel,F,182.5,9,5,2,Kolmarden,27,182.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.261,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Ariel,F,182.5,10,5,2,Kolmarden,27,182.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.261,0.301,aquatic,1.99986187,21,water
+Bottlenose dolphin,Ariel,F,182.5,10,5,3,Kolmarden,27,182.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.261,0.301,aquatic,1.99986187,21,water
 Bottlenose dolphin,Ariel,F,182,5,5,1,Kolmarden,27,182,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.26,0,aquatic,1,22.4,water
 Bottlenose dolphin,Ariel,F,182,9,5,2,Kolmarden,27,182,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.26,0.255,aquatic,1.798870915,22.4,water
 Bottlenose dolphin,Ariel,F,184.5,7,5,1,Kolmarden,27,184.5,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.266,0.146,aquatic,1.399587323,22.4,water
@@ -117,7 +117,7 @@ False killer whale,Arsa,F,345,19,14,2,Okinawa-Chumari,NA,345,F,1.4,Artiodactyla,
 False killer whale,Arsa,F,345,29,12,2,Okinawa-Chumari,NA,345,F,2.4,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.538,0.383,aquatic,2.415460834,22,water
 Bottlenose dolphin,Arya,F,118,7,5,2,DolphinCo-PuntaCana,8,118,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.072,0.146,aquatic,1.399587323,28.57,water
 Bottlenose dolphin,Arya,F,118,9,5,2,DolphinCo-PuntaCana,8,118,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.072,0.255,aquatic,1.798870915,28.63,water
-Bottlenose dolphin,Arya,F,118,12,5,,DolphinCo-PuntaCana,8,118,F,2.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.072,0.38,aquatic,2.398832919,28.5,water
+Bottlenose dolphin,Arya,F,118,12,5,3,DolphinCo-PuntaCana,8,118,F,2.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.072,0.38,aquatic,2.398832919,28.5,water
 Steller Sea Lion,Astro,M,414,9,5,1,MysticAquarium,17,414,M,1.8,Carnivora,Otariidae,Eumetopias, jubatus,semiaquatic,water,2.617,0.255,semiaquatic,1.798870915,8.444444444,water
 Steller Sea Lion,Astro,M,414,8,5,1,MysticAquarium,17,414,M,1.6,Carnivora,Otariidae,Eumetopias, jubatus,semiaquatic,air,2.617,0.204,semiaquatic,1.599558029,7.777777778,air
 Steller Sea Lion,Astro,M,414,17,5,2,MysticAquarium,17,414,M,3.4,Carnivora,Otariidae,Eumetopias, jubatus,semiaquatic,water,2.617,0.531,semiaquatic,3.396252726,8.888888889,water
@@ -211,9 +211,9 @@ Bottlenose dolphin,Cayman,M,150,8,5,2,DolphinCo-MSQ,12,150,M,1.6,Artiodactyla,De
 Bottlenose dolphin,Cecil,M,258.5,8,5,1,Kolmarden,39,258.5,M,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.412,0.204,aquatic,1.599558029,22,water
 Bottlenose dolphin,Cecil,M,258.5,8,5,1,Kolmarden,39,258.5,M,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.412,0.204,aquatic,1.599558029,22,water
 Bottlenose dolphin,Cecil,M,259.5,9,5,1,Kolmarden,39,259.5,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.414,0.255,aquatic,1.798870915,22,water
-Bottlenose dolphin,Cecil,M,254,6,5,,Kolmarden,39,254,M,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.405,0.079,aquatic,1.199499303,21,water
+Bottlenose dolphin,Cecil,M,254,6,5,1,Kolmarden,39,254,M,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.405,0.079,aquatic,1.199499303,21,water
 Bottlenose dolphin,Cecil,M,254,5,5,1,Kolmarden,39,254,M,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.405,0,aquatic,1,21,water
-Bottlenose dolphin,Cecil,M,254,4,5,,Kolmarden,39,254,M,0.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.405,-0.097,aquatic,0.799834255,21,water
+Bottlenose dolphin,Cecil,M,254,4,5,1,Kolmarden,39,254,M,0.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.405,-0.097,aquatic,0.799834255,21,water
 Bottlenose dolphin,Cecil,M,264,10,5,1,Kolmarden,39,264,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.422,0.301,aquatic,1.99986187,22.4,water
 Bottlenose dolphin,Cecil,M,264,10,5,1,Kolmarden,39,264,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.422,0.301,aquatic,1.99986187,22.4,water
 Bottlenose dolphin,Cecil,M,264,7,5,1,Kolmarden,39,264,M,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.422,0.146,aquatic,1.399587323,22.4,water
@@ -367,8 +367,8 @@ Harbor seal,Félix,M,58,19,5,2,ZooMarine,6,58,M,3.8,Carnivora,Phocidae,Phoca,vitu
 Bottlenose dolphin,Fenah,F,154,6,5,1,Kolmarden,15,154,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.188,0.079,aquatic,1.199499303,22,water
 Bottlenose dolphin,Fenah,F,154,6,5,1,Kolmarden,15,154,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.188,0.079,aquatic,1.199499303,22,water
 Bottlenose dolphin,Fenah,F,154,7,5,1,Kolmarden,15,154,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.188,0.146,aquatic,1.399587323,22,water
-Bottlenose dolphin,Fenah,F,153.5,9,5,,Kolmarden,15,153.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.186,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Fenah,F,153.5,10,5,,Kolmarden,15,153.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.186,0.301,aquatic,1.99986187,21,water
+Bottlenose dolphin,Fenah,F,153.5,9,5,2,Kolmarden,15,153.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.186,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Fenah,F,153.5,10,5,2,Kolmarden,15,153.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.186,0.301,aquatic,1.99986187,21,water
 Bottlenose dolphin,Fenah,F,153.5,6,3.833,1,Kolmarden,15,153.5,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.186,0.195,aquatic,1.56675107,21,water
 Bottlenose dolphin,Fenah,F,154,8,5,1,Kolmarden,15,154,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.188,0.204,aquatic,1.599558029,22.4,water
 Bottlenose dolphin,Fenah,F,154,7,5,1,Kolmarden,15,154,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.188,0.146,aquatic,1.399587323,22.4,water
@@ -385,9 +385,9 @@ Bottlenose dolphin,Fernando,M,130,10,5,2,DolphinCo-CostaMaya,9,130,M,2,Artiodact
 Bottlenose dolphin,Finn,M,138,11,5,3,Kolmarden,5,138,M,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.14,0.342,aquatic,2.197859873,22,water
 Bottlenose dolphin,Finn,M,138,11,5,1,Kolmarden,5,138,M,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.14,0.342,aquatic,2.197859873,22,water
 Bottlenose dolphin,Finn,M,138,14,5,2,Kolmarden,5,138,M,2.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.14,0.447,aquatic,2.79898132,22,water
-Bottlenose dolphin,Finn,M,142,10,5,,Kolmarden,5,142,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.152,0.301,aquatic,1.99986187,21,water
-Bottlenose dolphin,Finn,M,142,9,5,,Kolmarden,5,142,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.152,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Finn,M,142,7,5,,Kolmarden,5,142,M,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.152,0.146,aquatic,1.399587323,21,water
+Bottlenose dolphin,Finn,M,142,10,5,2,Kolmarden,5,142,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.152,0.301,aquatic,1.99986187,21,water
+Bottlenose dolphin,Finn,M,142,9,5,1,Kolmarden,5,142,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.152,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Finn,M,142,7,5,1,Kolmarden,5,142,M,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.152,0.146,aquatic,1.399587323,21,water
 Bottlenose dolphin,Finn,M,147.7,9,5,1,MississipiAquarium,10,147.7272727,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.169,0.255,aquatic,1.798870915,26.11111111,water
 Bottlenose dolphin,Finn,M,147.7,10,5,1,MississipiAquarium,10,147.7272727,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.169,0.301,aquatic,1.99986187,26.61111111,water
 Bottlenose dolphin,Finn,M,148.2,9,5,1,MississipiAquarium,10,148.1818182,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.171,0.255,aquatic,1.798870915,26.5,water
@@ -398,7 +398,7 @@ South african fur seal ,Flod,F,32,18,5,2,Kolmarden,3,32,F,3.6,Carnivora,Otariida
 South african fur seal ,Flod,F,32,20,5,1,Kolmarden,3,32,F,4,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.505,0.602,semiaquatic,3.999447498,10,air
 South african fur seal ,Flod,F,32,39?,5,1,Kolmarden,3,32,F,7.8,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.505,0.892,semiaquatic,7.798301105,,air
 South african fur seal ,Flod,F,35,18,5,1,Kolmarden,3,35,F,3.6,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.544,0.556,semiaquatic,3.597493352,25,air
-South african fur seal ,Flod,F,35,16,5,,Kolmarden,3,35,F,3.2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.544,0.505,semiaquatic,3.19889511,25,air
+South african fur seal ,Flod,F,35,16,5,1,Kolmarden,3,35,F,3.2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.544,0.505,semiaquatic,3.19889511,25,air
 Bottlenose dolphin,Frida,F,145,8,5,2,DolphinCo-CostaMaya,21,145,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.161,0.204,aquatic,1.599558029,30.11,water
 Bottlenose dolphin,Frida,F,145,9,5,2,DolphinCo-CostaMaya,21,145,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.161,0.255,aquatic,1.798870915,30.2,water
 Bottlenose dolphin,Frida,F,145,7,5,1,DolphinCo-CostaMaya,21,145,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.161,0.146,aquatic,1.399587323,30.16,water
@@ -431,15 +431,15 @@ Brown fur seal,Gil,M,140,49,5,2,ZooMarine,25,140,M,9.8,Carnivora,Otariidae,Arcto
 Brown fur seal,Gil,M,140,29,5,1,ZooMarine,25,140,M,5.8,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,2.146,0.763,semiaquatic,5.794286964,18,air
 Brown fur seal,Gil,M,140,11,5,2,ZooMarine,25,140,M,2.2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,water,2.146,0.342,semiaquatic,2.197859873,20.4,water
 False killer whale,Gon,M,630,23,10,2,Okinawa-Chumari,NA,630,M,2.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.799,0.362,aquatic,2.301441817,21.8,water
-False killer whale,Gon,M,630,23,7,1.5,Okinawa-Chumari,NA,630,M,3.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.799,0.517,aquatic,3.288516309,22,water
-False killer whale,Gon,M,630,21,7,1.5,Okinawa-Chumari,NA,630,M,3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.799,0.477,aquatic,2.999162519,22,water
+False killer whale,Gon,M,630,23,7,2,Okinawa-Chumari,NA,630,M,3.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.799,0.517,aquatic,3.288516309,22,water
+False killer whale,Gon,M,630,21,7,1,Okinawa-Chumari,NA,630,M,3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.799,0.477,aquatic,2.999162519,22,water
 California sea lion ,Gonzo,M,179,11,5,2,Amneville,14,179,M,2.2,Carnivora,Otariidae,Zalophus,californianus,semiaquatic,water,2.253,0.342,semiaquatic,2.197859873,13,water
 California sea lion ,Gonzo,M,178.8,13,5,2,Amneville,14,178.8,M,2.6,Carnivora,Otariidae,Zalophus,californianus,semiaquatic,water,2.252,0.415,semiaquatic,2.600159563,13,water
 California sea lion ,Gonzo,M,179.8,13,5,2,Amneville,14,179.8,M,2.6,Carnivora,Otariidae,Zalophus,californianus,semiaquatic,water,2.255,0.415,semiaquatic,2.600159563,13,water
 California sea lion ,Gonzo,M,181.1,12,5,2,Amneville,14,181.1,M,2.4,Carnivora,Otariidae,Zalophus,californianus,semiaquatic,water,2.258,0.38,semiaquatic,2.398832919,13,water
 California sea lion ,Gonzo,M,181,11,5,2,Amneville,14,181,M,2.2,Carnivora,Otariidae,Zalophus,californianus,semiaquatic,water,2.258,0.342,semiaquatic,2.197859873,14,water
 Bottlenose dolphin,Goya,M,152,7,5,2,DolphinCo-PuntaCana,25,152,M,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.182,0.146,aquatic,1.399587323,28.39,water
-Bottlenose dolphin,Goya,M,152,11,5,,DolphinCo-PuntaCana,25,152,M,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.182,0.342,aquatic,2.197859873,28.09,water
+Bottlenose dolphin,Goya,M,152,11,5,2,DolphinCo-PuntaCana,25,152,M,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.182,0.342,aquatic,2.197859873,28.09,water
 Bottlenose dolphin,Goya,M,152,11,5,2,DolphinCo-PuntaCana,25,152,M,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.182,0.342,aquatic,2.197859873,28.52,water
 Bottlenose dolphin,Grecia,F,145,8,5,2,DolphinCo-PuntaCana,22,145,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.161,0.204,aquatic,1.599558029,28.57,water
 Bottlenose dolphin,Grecia,F,145,6,5,1,DolphinCo-PuntaCana,22,145,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.161,0.079,aquatic,1.199499303,28.63,water
@@ -451,9 +451,9 @@ Grey Seal,Griso,M,181,11,5,1,ZooMarine,21,181,M,2.2,Carnivora,Phocidae,Halichoer
 Bottlenose dolphin,Guama,M,208,13,5,2,Kolmarden,41,208,M,2.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.318,0.415,aquatic,2.600159563,22,water
 Bottlenose dolphin,Guama,M,208,9,5,2,Kolmarden,41,208,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.318,0.255,aquatic,1.798870915,22,water
 Bottlenose dolphin,Guama,M,208,9,5,1,Kolmarden,41,208,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.318,0.255,aquatic,1.798870915,22,water
-Bottlenose dolphin,Guama,M,205,5,5,,Kolmarden,41,205,M,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.312,0,aquatic,1,21,water
-Bottlenose dolphin,Guama,M,205,9,5,,Kolmarden,41,205,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.312,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Guama,M,205,7,5,,Kolmarden,41,205,M,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.312,0.146,aquatic,1.399587323,21,water
+Bottlenose dolphin,Guama,M,205,5,5,1,Kolmarden,41,205,M,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.312,0,aquatic,1,21,water
+Bottlenose dolphin,Guama,M,205,9,5,2,Kolmarden,41,205,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.312,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Guama,M,205,7,5,1,Kolmarden,41,205,M,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.312,0.146,aquatic,1.399587323,21,water
 Bottlenose dolphin,Guama,M,201,4,3.5,1,Kolmarden,41,201,M,1.1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.303,0.058,aquatic,1.142878335,23.5,water
 Bottlenose dolphin,Guama,M,210,10,5,1,Kolmarden,41,210,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.322,0.301,aquatic,1.99986187,22,water
 Bottlenose dolphin,Guama ,M,208.5,6,5,1,Kolmarden,41,208.5,M,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.319,0.079,aquatic,1.199499303,22.4,water
@@ -587,7 +587,7 @@ Northern Fur Seal,Kivli,F,33.5,18,5,1,MysticAquarium,8,33.5,F,3.6,Carnivora,Otar
 Bottlenose dolphin,Krista,F,143,11,5,1,DolphinCo-Cozumel,19,143,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.155,0.342,aquatic,2.197859873,27.8,water
 Bottlenose dolphin,Krista,F,144,9,5,1,DolphinCo-Cozumel,19,144,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.158,0.255,aquatic,1.798870915,28.1,water
 Bottlenose dolphin,Krista,F,145,8,5,1,DolphinCo-Cozumel,19,145,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.161,0.204,aquatic,1.599558029,27.9,water
-Hybdrid bottlenose,Kuni,F,247,33,15,1.5,Okinawa-Chumari,1989,247,F,2.2,Artiodactyla,Delphinidae,Tursiops,aduncus,aquatic,water,2.393,0.342,aquatic,2.197859873,21.8,water
+Hybdrid bottlenose,Kuni,F,247,33,15,1,Okinawa-Chumari,1989,247,F,2.2,Artiodactyla,Delphinidae,Tursiops,aduncus,aquatic,water,2.393,0.342,aquatic,2.197859873,21.8,water
 Bottlenose dolphin,LEAH,F,185.8,7,5,2,DolphinCo-ZooMarine,21,185.8,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.269,0.146,aquatic,1.399587323,25.6,water
 Bottlenose dolphin,LEAH,F,185.8,7,5,3,DolphinCo-ZooMarine,21,185.8,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.269,0.146,aquatic,1.399587323,24.4,water
 Bottlenose dolphin,LEAH,F,185.8,6,5,2,DolphinCo-ZooMarine,21,185.8,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.269,0.079,aquatic,1.199499303,24.5,water
@@ -637,9 +637,9 @@ Bottlenose dolphin,LUNAc,F,125.8,8,5,3,DolphinCo-ZooMarine,6,125.8,F,1.6,Artioda
 Bottlenose dolphin,Luna,F,171.5,7,5,1,Kolmarden,22,171.5,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.234,0.146,aquatic,1.399587323,22,water
 Bottlenose dolphin,Luna,F,171.5,9,4.33,2,Kolmarden,22,171.5,F,2.1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.234,0.318,aquatic,2.079696687,22,water
 Bottlenose dolphin,Luna,F,171.5,6,5,1,Kolmarden,22,171.5,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.234,0.079,aquatic,1.199499303,22,water
-Bottlenose dolphin,Luna,F,163,7,5,,Kolmarden,22,163,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.212,0.146,aquatic,1.399587323,21,water
-Bottlenose dolphin,Luna,F,163,9,5,,Kolmarden,22,163,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.212,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Luna,F,163,11,5,,Kolmarden,22,163,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.212,0.342,aquatic,2.197859873,21,water
+Bottlenose dolphin,Luna,F,163,7,5,1,Kolmarden,22,163,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.212,0.146,aquatic,1.399587323,21,water
+Bottlenose dolphin,Luna,F,163,9,5,2,Kolmarden,22,163,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.212,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Luna,F,163,11,5,2,Kolmarden,22,163,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.212,0.342,aquatic,2.197859873,21,water
 Bottlenose dolphin,Luna,F,168,10,5,1,Kolmarden,22,168,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.225,0.301,aquatic,1.99986187,22.4,water
 Bottlenose dolphin,Luna,F,168,6,5,1,Kolmarden,22,168,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.225,0.079,aquatic,1.199499303,22.4,water
 Bottlenose dolphin,Luna,F,167,9,5,1,Kolmarden,22,167,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.223,0.255,aquatic,1.798870915,22.4,water
@@ -657,9 +657,9 @@ California sea lion ,Lunaee,F,73.4,22,5,2,Amneville,21,73.4,F,4.4,Carnivora,Otar
 Bottlenose dolphin,Lyra,F,176,9,5,1,Kolmarden,24,176,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.246,0.255,aquatic,1.798870915,22,water
 Bottlenose dolphin,Lyra,F,176,11,5,1,Kolmarden,24,176,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.246,0.342,aquatic,2.197859873,22,water
 Bottlenose dolphin,Lyra,F,176,7,5,1,Kolmarden,24,176,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.246,0.146,aquatic,1.399587323,22,water
-Bottlenose dolphin,Lyra,F,177,4,5,,Kolmarden,24,177,F,0.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,-0.097,aquatic,0.799834255,21,water
-Bottlenose dolphin,Lyra,F,177,8,5,,Kolmarden,24,177,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.204,aquatic,1.599558029,21,water
-Bottlenose dolphin,Lyra,F,177,7,5,,Kolmarden,24,177,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.146,aquatic,1.399587323,21,water
+Bottlenose dolphin,Lyra,F,177,4,5,1,Kolmarden,24,177,F,0.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,-0.097,aquatic,0.799834255,21,water
+Bottlenose dolphin,Lyra,F,177,8,5,2,Kolmarden,24,177,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.204,aquatic,1.599558029,21,water
+Bottlenose dolphin,Lyra,F,177,7,5,1,Kolmarden,24,177,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.146,aquatic,1.399587323,21,water
 Bottlenose dolphin,Lyra,F,174.5,10,5,2,Kolmarden,24,174.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.242,0.301,aquatic,1.99986187,22.4,water
 Bottlenose dolphin,Lyra,F,175,10,5,1,Kolmarden,24,175,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.243,0.301,aquatic,1.99986187,22.4,water
 Bottlenose dolphin,Lyra,F,174.5,5,5,1,Kolmarden,24,174.5,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.242,0,aquatic,1,22.4,water
@@ -740,10 +740,10 @@ Bottlenose dolphin,Mikey,M,214,6,5,1,ZooMarine,20,214,M,1.2,Artiodactyla,Delphin
 Bottlenose dolphin,Missy,F,217,6,5,2,ZooMarine,45,217,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.336,0.079,aquatic,1.199499303,20.5,water
 Bottlenose dolphin,Missy,F,217,6,5,2,ZooMarine,45,217,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.336,0.079,aquatic,1.199499303,20.3,water
 Bottlenose dolphin,Missy,F,217,14,5,2,ZooMarine,45,217,F,2.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.336,0.447,aquatic,2.79898132,20.2,water
-False killer whale,Momo,F,553,30,16,1.5,Okinawa-Chumari,NA,553,F,1.9,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.273,aquatic,1.874994508,21.8,water
-False killer whale,Momo,F,553,23,15,1.5,Okinawa-Chumari,NA,553,F,1.5,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.186,aquatic,1.534616983,21.8,water
-False killer whale,Momo,F,553,35,15,1.5,Okinawa-Chumari,NA,553,F,2.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.368,aquatic,2.333458062,21.8,water
-False killer whale,Momo,F,553,24,15,1.5,Okinawa-Chumari,NA,553,F,1.6,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.204,aquatic,1.599558029,21.8,water
+False killer whale,Momo,F,553,30,16,2,Okinawa-Chumari,NA,553,F,1.9,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.273,aquatic,1.874994508,21.8,water
+False killer whale,Momo,F,553,23,15,1,Okinawa-Chumari,NA,553,F,1.5,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.186,aquatic,1.534616983,21.8,water
+False killer whale,Momo,F,553,35,15,2,Okinawa-Chumari,NA,553,F,2.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.368,aquatic,2.333458062,21.8,water
+False killer whale,Momo,F,553,24,15,1,Okinawa-Chumari,NA,553,F,1.6,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.204,aquatic,1.599558029,21.8,water
 False killer whale,Momo,F,553,3,2,1,Okinawa-Chumari,NA,553,F,1.5,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.176,aquatic,1.499684836,21.8,water
 False killer whale,Momo,F,553,17,11,1,Okinawa-Chumari,NA,553,F,1.5,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.743,0.189,aquatic,1.54525444,22,water
 Bottlenose dolphin,Monnet,M,153,12,5,2,DolphinCo-PuntaCana,20,153,M,2.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.185,0.38,aquatic,2.398832919,28.39,water
@@ -798,9 +798,9 @@ Bottlenose dolphin,Nemo,M,173,9,5,2,DolphinCo-Cayman,23,173,M,1.8,Artiodactyla,D
 Bottlenose dolphin,Nephele,F,155,11,5,1,Kolmarden,40,155,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.342,aquatic,2.197859873,22,water
 Bottlenose dolphin,Nephele,F,155,9,5,1,Kolmarden,40,155,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.255,aquatic,1.798870915,22,water
 Bottlenose dolphin,Nephele,F,155,8,5,1,Kolmarden,40,155,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.19,0.204,aquatic,1.599558029,22,water
-Bottlenose dolphin,Nephele,F,157.5,7,5,,Kolmarden,40,157.5,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.197,0.146,aquatic,1.399587323,21,water
-Bottlenose dolphin,Nephele,F,157.5,8,5,,Kolmarden,40,157.5,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.197,0.204,aquatic,1.599558029,21,water
-Bottlenose dolphin,Nephele,F,157.5,7,5,,Kolmarden,40,157.5,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.197,0.146,aquatic,1.399587323,21,water
+Bottlenose dolphin,Nephele,F,157.5,7,5,1,Kolmarden,40,157.5,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.197,0.146,aquatic,1.399587323,21,water
+Bottlenose dolphin,Nephele,F,157.5,8,5,1,Kolmarden,40,157.5,F,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.197,0.204,aquatic,1.599558029,21,water
+Bottlenose dolphin,Nephele,F,157.5,7,5,1,Kolmarden,40,157.5,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.197,0.146,aquatic,1.399587323,21,water
 Bottlenose dolphin,Nephele,F,158,5,5,1,Kolmarden,40,158,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.199,0,aquatic,1,22.4,water
 Bottlenose dolphin,Nephele,F,158,10,5,2,Kolmarden,40,158,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.199,0.301,aquatic,1.99986187,22.4,water
 Bottlenose dolphin,Nephele,F,157,7,5,1,Kolmarden,40,157,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.196,0.146,aquatic,1.399587323,22.4,water
@@ -808,8 +808,8 @@ Bottlenose dolphin,Neptun,M,150,10,5,3,Kolmarden,5,150,M,2,Artiodactyla,Delphini
 Bottlenose dolphin,Neptun,M,150,8,5,1,Kolmarden,5,150,M,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.176,0.204,aquatic,1.599558029,22,water
 Bottlenose dolphin,Neptun,M,150,11,5,1,Kolmarden,5,150,M,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.176,0.342,aquatic,2.197859873,22,water
 Bottlenose dolphin,Neptun,M,148,10,5,2,Kolmarden,5,148,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.17,0.301,aquatic,1.99986187,21,water
-Bottlenose dolphin,Neptun,M,148,9,5,,Kolmarden,5,148,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.17,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Neptun,M,148,6,5,,Kolmarden,5,148,M,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.17,0.079,aquatic,1.199499303,21,water
+Bottlenose dolphin,Neptun,M,148,9,5,2,Kolmarden,5,148,M,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.17,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Neptun,M,148,6,5,1,Kolmarden,5,148,M,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.17,0.079,aquatic,1.199499303,21,water
 Bottlenose dolphin,Nicholas,M,176.9,8,5,1,Clearwater,21,176.9,M,1.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.204,aquatic,1.599558029,26,water
 Bottlenose dolphin,Nicholas,M,176.9,13,5,2,Clearwater,21,176.9,M,2.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.415,aquatic,2.600159563,24,water
 Bottlenose dolphin,Nicholas,M,176.9,12,5,2,Clearwater,21,176.9,M,2.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.248,0.38,aquatic,2.398832919,24,water
@@ -883,7 +883,7 @@ Bottlenose dolphin,Pärla,F,156,10,5,1,Kolmarden,11,156,F,2,Artiodactyla,Delphini
 Bottlenose dolphin,Pärla,F,156,7,5,1,Kolmarden,11,156,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.193,0.146,aquatic,1.399587323,22,water
 Bottlenose dolphin,Pärla,F,157,9,5,1,Kolmarden,11,157,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.196,0.255,aquatic,1.798870915,21,water
 Bottlenose dolphin,Pärla,F,157,9,5,1,Kolmarden,11,157,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.196,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Pärla,F,157,9,5,,Kolmarden,11,157,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.196,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Pärla,F,157,9,5,1,Kolmarden,11,157,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.196,0.255,aquatic,1.798870915,21,water
 Bottlenose dolphin,Pärla,F,156,6,5,1,Kolmarden,11,156,F,1.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.193,0.079,aquatic,1.199499303,22.4,water
 Bottlenose dolphin,Pärla,F,156,9,5,1,Kolmarden,11,156,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.193,0.255,aquatic,1.798870915,22.4,water
 Bottlenose dolphin,Pärla,F,156,7,5,1,Kolmarden,11,156,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.193,0.146,aquatic,1.399587323,22.4,water
@@ -893,9 +893,9 @@ Bottlenose dolphin,Pärla,F,156,10,5,1,Kolmarden,11,156,F,2,Artiodactyla,Delphini
 Bottlenose dolphin,Peach,F,133.5,10,5,1,Kolmarden,8,133.5,F,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.125,0.301,aquatic,1.99986187,22,water
 Bottlenose dolphin,Peach,F,133.5,9,5,1,Kolmarden,8,133.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.125,0.255,aquatic,1.798870915,22,water
 Bottlenose dolphin,Peach,F,133.5,9,5,1,Kolmarden,8,133.5,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.125,0.255,aquatic,1.798870915,22,water
-Bottlenose dolphin,Peach,F,132,9,5,,Kolmarden,8,132,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.121,0.255,aquatic,1.798870915,21,water
-Bottlenose dolphin,Peach,F,132,5,3,,Kolmarden,8,132,F,1.7,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.121,0.222,aquatic,1.667247213,21,water
-Bottlenose dolphin,Peach,F,132,11,5,,Kolmarden,8,132,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.121,0.342,aquatic,2.197859873,21,water
+Bottlenose dolphin,Peach,F,132,9,5,1,Kolmarden,8,132,F,1.8,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.121,0.255,aquatic,1.798870915,21,water
+Bottlenose dolphin,Peach,F,132,5,3,1,Kolmarden,8,132,F,1.7,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.121,0.222,aquatic,1.667247213,21,water
+Bottlenose dolphin,Peach,F,132,11,5,2,Kolmarden,8,132,F,2.2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.121,0.342,aquatic,2.197859873,21,water
 Bottlenose dolphin,Peach,F,130.5,12,5,1,Kolmarden,8,130.5,F,2.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.116,0.38,aquatic,2.398832919,22.4,water
 Harbor Seal,Pearl,F,73,10,5,1,MysticAquarium,11,73,F,2,Carnivora,Phocidae,Phoca,vitulina,semiaquatic,water,1.863,0.301,semiaquatic,1.99986187,8.444444444,water
 Harbor Seal,Pearl,F,73,18,5,2,MysticAquarium,11,73,F,3.6,Carnivora,Phocidae,Phoca,vitulina,semiaquatic,water,1.863,0.556,semiaquatic,3.597493352,8.944444444,water
@@ -1112,14 +1112,14 @@ Bottlenose dolphin,Tesla,F,109,9,5,2,DolphinCo-Cayman,6,109,F,1.8,Artiodactyla,D
 Bottlenose dolphin,THAI,F,158,3,5,2,DolphinCo-ZooMarine,11,158,F,0.6,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.199,-0.222,aquatic,0.599791076,26.6,water
 Bottlenose dolphin,THAI,F,158,7,5,2,DolphinCo-ZooMarine,11,158,F,1.4,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.199,0.146,aquatic,1.399587323,24.4,water
 Bottlenose dolphin,THAI,F,158,5,5,3,DolphinCo-ZooMarine,11,158,F,1,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.199,0,aquatic,1,24.5,water
-False killer whale,Tida,M,933,20,15,1.5,Okinawa-Chumari,NA,933,M,1.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.97,0.125,aquatic,1.333521432,21.8,water
-False killer whale,Tida,M,933,7,5,1.5,Okinawa-Chumari,NA,933,M,1.4,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.97,0.146,aquatic,1.399587323,21.8,water
+False killer whale,Tida,M,933,20,15,1,Okinawa-Chumari,NA,933,M,1.3,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.97,0.125,aquatic,1.333521432,21.8,water
+False killer whale,Tida,M,933,7,5,1,Okinawa-Chumari,NA,933,M,1.4,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.97,0.146,aquatic,1.399587323,21.8,water
 False killer whale,Tida,M,933,27,11,2,Okinawa-Chumari,NA,933,M,2.5,Artiodactyla,Delphinidae,Pseudorca,crassidens,aquatic,water,2.97,0.39,aquatic,2.454708916,22,water
 South african fur seal ,Timjan,F,68.5,12,5,1,Kolmarden,10,68.5,F,2.4,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.836,0.38,semiaquatic,2.398832919,8,air
 South african fur seal ,Timjan,F,68.5,18,5,1,Kolmarden,10,68.5,F,3.6,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.836,0.556,semiaquatic,3.597493352,16,air
 South african fur seal ,Timjan,F,70,13,5,1,Kolmarden,10,70,F,2.6,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.845,0.415,semiaquatic,2.600159563,25,air
 South african fur seal ,Timjan,F,70,21,5,1,Kolmarden,10,70,F,4.2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.845,0.623,semiaquatic,4.19758984,25,air
-South african fur seal ,Timjan,F,70,16,5,,Kolmarden,10,70,F,3.2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.845,0.505,semiaquatic,3.19889511,25,air
+South african fur seal ,Timjan,F,70,16,5,1,Kolmarden,10,70,F,3.2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,air,1.845,0.505,semiaquatic,3.19889511,25,air
 South african fur seal ,Timjan,F,72,2,1,2,Kolmarden,10,72,F,2,Carnivora,Otariidae,Arctocephalus,pusillus,semiaquatic,water,1.857,0.301,semiaquatic,1.99986187,7,water
 Sabel antelope,Tisa,F,65,35,2,2,Kolmarden,2,65,F,17.5,Artiodactyla,Bovidae,Hippotragus ,niger,terrestrial,air,1.813,1.243,terrestrial,17.49846689,12,air
 Bottlenose dolphin,Tiziano,M,119,10,5,1,DolphinCo-Cozumel,6,119,M,2,Artiodactyla,Delphinidae,Tursiops,truncatus,aquatic,water,2.076,0.301,aquatic,1.99986187,27.8,water

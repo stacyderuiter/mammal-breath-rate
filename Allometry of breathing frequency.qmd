@@ -198,15 +198,14 @@ mortola <- read_excel('data/additional-species.xlsx',
 
 he <- read_excel('data/additional-species.xlsx',
                               sheet = 'He') |>
-  filter(`Common Name` %in% c('hippo', 'walrus', 'polar bear', 
-                              'african clawless otter', 'river otter',
-                              'beaver')) |>
+  # filter(`Common Name` %in% c('hippo', 'walrus', 'polar bear', 
+  #                             'african clawless otter', 'river otter',
+  #                             'beaver')) |>
   rename(log_Mb = `Log of Mass`,
          body_mass = `Mass (kg)`,
          breath_rate = `Breathing Frequency (br/min)`
          ) |>
   mutate(log_fr = log10(breath_rate),
-         habitat = 'semiaquatic',
          common_name = `Common Name`)
 ```
 

@@ -35,7 +35,7 @@ knitr::opts_chunk$set(
 
 Data files in excel format can be found at:
 
-<https://github.com/stacyderuiter/mammal-breath-rate/tree/main/data>
+<https://stacyderuiter.github.io/mammal-breath-rate/data>
 
 # Introduction
 
@@ -51,7 +51,7 @@ Unlike other studies, We aimed to only use data that were sampled under basal co
 # breath_data <- read.csv("breath-rate.csv")#aLL ACTIVITY LEVELS
 #breath_data <- read.csv("breath-rate-activity-level1.csv")#only acitivity level 1
 # Stacy's computer
-breath_data <- read.csv('../data/breath-rate.csv')
+breath_data <- read.csv('data/breath-rate.csv')
 #extract the variables of interest
 breath_data <- breath_data |>
   select(log_fr, log_Mb, habitat, order, family, genus, species,
@@ -194,7 +194,7 @@ For the prediction plots shown below, the other predictors in the model but not 
 We also add in data from Mortola and He:
 
 ```{r}
-mortola <- read_excel('../data/additional-species.xlsx',
+mortola <- read_excel('data/additional-species.xlsx',
                               sheet = 'mortola') |>
   mutate(log_Mb = log10(`Body mass`),
          body_mass = `Body mass`,
@@ -202,7 +202,7 @@ mortola <- read_excel('../data/additional-species.xlsx',
          breath_rate = fr,
          common_name = species) 
 
-he <- read_excel('../data/additional-species.xlsx',
+he <- read_excel('data/additional-species.xlsx',
                               sheet = 'He') |>
   # filter(`Common Name` %in% c('hippo', 'walrus', 'polar bear', 
   #                             'african clawless otter', 'river otter',

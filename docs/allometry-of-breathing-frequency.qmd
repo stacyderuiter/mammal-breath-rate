@@ -1,11 +1,12 @@
 ---
 title: "Allometry of Mammalian Breathing Rates"
 author: "Elliot Stielstra, Ethan Wilstermann, Simon Rylaarsdam, Stacy DeRuiter, Andreas Fahlman"
-date: "7/25/2024"
+date: "August 2024"
 format:
   html:
     embed-resources: true
     code-tools: true
+    toc: true
 editor: source
 ---
 
@@ -28,17 +29,23 @@ knitr::opts_chunk$set(
   # file type for image files (can also be eps, jpeg, ...)
   dev = 'png',
   # resolution for image files
-  dpi = 300)
+  dpi = 300,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 6.5, 
+  fig.height = 4.5)
+
+theme_set(theme_minimal(base_size = 12))
 ```
 
 # Data Access
 
 Raw data files can be found at:
 
-<https://stacyderuiter.github.io/mammal-breath-rate/data/breath-rate.csv>
+<https://stacyderuiter.github.io/mammal-breath-rate/data/breath-rate-FINAL.csv>
 <https://stacyderuiter.github.io/mammal-breath-rate/data/additional-species.xlsx>
 
-# Introduction
+# Analysis
 
 ## Context and Goals
 
@@ -47,20 +54,30 @@ The objective with this analysis was to explore the allometric relationship betw
 Unlike other studies, We aimed to only use data that were sampled under basal conditions; 1) adult animals, 2) not pregnant or lactating, 3) post-prandial (fasted), 4) at rest, and 5) in their thermoneutral zone. Although, we included animals at different activity levels, the final analysis focused on those that were inactive, so activity level 1. Also, not all animals may have fasted long enough to be post-prandial, like ruminants. 
 
 
+## Data Preparation
+
 ```{r}
-# Andreas' computer, your data file and where it is located
-# breath_data <- read.csv("breath-rate.csv")#aLL ACTIVITY LEVELS
-#breath_data <- read.csv("breath-rate-activity-level1.csv")#only acitivity level 1
-# Stacy's computer
-breath_data <- read.csv('data/breath-rate.csv')
+breath_data <- read_csv('data/breath-rate-FINAL.csv',
+                        show_col_types = FALSE,
+                        trim_ws = TRUE,
+                        locale = readr::locale(encoding = "latin1")) 
+
 #extract the variables of interest
 breath_data <- breath_data |>
   select(log_fr, log_Mb, habitat, order, family, genus, species,
          breath_rate, body_mass, sex, 
          activity_level, individual_name, common_name, age, temp, location) |>
-  # force activity level variable to be categorical
-  mutate(activity_level = factor(activity_level)) |>
-  na.omit()
+  mutate(across(where(is.character), function(x) str_remove_all(x, pattern = fixed('\xc2')))) |>
+  mutate(across(where(is.character), function(x) str_remove_all(x, pattern = fixed('\xa0')))) |>
+  mutate(across(c(individual_name, common_name, habitat, location), str_to_title)) |>
+  mutate(common_name = str_replace_all(common_name, pattern = "Harbour", replacement = "Harbor")) |>
+  mutate(common_name = str_replace_all(common_name, pattern = "Sabel", replacement = "Sable")) |>
+  mutate(common_name = str_replace_all(common_name, pattern = "Giraff", replacement = "Giraffe")) |>
+  mutate(common_name = str_replace_all(common_name, pattern = "Asiatisk", replacement = "Asian")) |>
+  mutate(activity_level = factor(activity_level),
+         habitat = factor(habitat),
+         location = factor(location)) |>
+  drop_na()
 
 breath_data <- breath_data |>
   arrange(order, common_name)
@@ -68,13 +85,13 @@ breath_data <- breath_data |>
 glimpse(breath_data)
 ```
 
-## Exploratory Graphs separating habitat
+## Data Exploration
 
-```{r}
+```{r, simple-data-scatterplot}
 gf_point(log_fr ~ log_Mb | habitat, alpha=0.1, data = breath_data) 
 ```
 
-```{r}
+```{r, scatter-color-by-habitat}
 gf_point(log_fr ~ log_Mb, data = breath_data, color= ~habitat)|> 
     gf_labs(x = "Log 10 Body mass (kg)",
            y = "Log 10 Breaths per Minute",
@@ -82,74 +99,55 @@ gf_point(log_fr ~ log_Mb, data = breath_data, color= ~habitat)|>
 ```
 
 
-# Fitting the model
+## Model Fitting
 
-Full model
 
-Model that includes consideration (phylogenetic constrast) of order, genus and species. Model includes body mass, activity, temperature of either water or air (where the animal was measured) and habitat. The model also accounts for differences in slopes for animals of different habitats.
+
+This model that includes consideration (phylogenetic contrast) of order, genus and species via a set of nested random intercepts, plus a separate random intercept for the individual animal. The model includes body mass, activity, temperature of either water or air (where the animal was measured) and habitat. The model also accounts for differences in slopes (for the body mass effect) for animals of different habitats.
 
 ```{r}
-model_full <- glmmTMB(log_fr ~ log_Mb * habitat + activity_level + temp + # location +
+breath_model <- glmmTMB(log_fr ~ log_Mb * habitat + activity_level + temp +  location +
                          (1 | order/family/genus/species) + (1 | individual_name), 
                       data = breath_data)
-summary(model_full)
+summary(breath_model)
 ```
 
 
 ## Model Assessment
 
-Model assessment to support that the model accurately represents patterns found within the data.
+These graphical checks were carried out to confirm that model conditions (linearity, plus constant variance, independence, and normality of residuals) were met.
 
 ```{r}
 breath_data <- breath_data |>
-  mutate(preds = predict(model_full),
-         resids = resid(model_full))
+  mutate(preds = predict(breath_model),
+         resids = resid(breath_model))
 ```
 
-# Lack of Non-Linearity
-
-```{r}
+```{r, resid-vs-fitted}
 gf_point(resids ~ preds, data = breath_data, alpha = 0.2)
 ```
 
-The plot examines the relationship between the residuals and the
-predicted values. Upon visual inspection, the plot does not demonstrate
-a any trends. The spread of the points is also relatively constant as a function of predicted value (given that there are fewer large mass animals) so the condition of constant residual variance also seems to be met.
 
-Because of the random effects it might be better to used scaled residuals to check these conditions:
-
-```{r}
-sim_res <- simulateResiduals(model_full)
+```{r, scaled-resid}
+sim_res <- simulateResiduals(breath_model)
 plotResiduals(sim_res, quantreg = FALSE)
 ```
-Similarly, there is no evidence of systematic changes with scaled residuals
 
-# Independence of Residuals
-
-```{r}
-acf(resid(model_full))
+```{r, resid-acf}
+acf(resid(breath_model))
 ```
 
-The ACF value at lag 1 and 2 are slightly worrisome but probably acceptable, possibly related to the fact there are many small RE groups (there are no indications of strong non-independence of the residuals).
-
-
-# Normality of Residuals
-
-```{r}
+```{r, resid-hist}
 gf_histogram(~resids, data = breath_data, bins = 20)
 ```
 
-The distribution of the residuals is unimodal and pretty symmetric, so there are not worries about the residual normality condition.
-
-
-
-## Model Analysis
+## Inference
 
 ```{r}
-car::Anova(model_full)
+car::Anova(breath_model)
 ```
 
-The ANOVA output shows a strong dependence of body mass, habitat and activity level, and provides moderate evidence of an interaction between habitat and body mass. The data also provides strong evidence of a difference by location, but note that only semi-aquatic mammals are measured in both locations (as all aquatic are only measured in water and all terrestrial in air). So, part of the location effect may be driven by overall terrestrial-aquatic differences. Surprisingly, location suggests that breathing frequency is lower in water than on land for semi-aquatic mammals.  
+The ANOVA output shows a strong evidence of association between breath rate and body mass, habitat, and activity level, and provides moderate evidence of an interaction between habitat and body mass. The data also provides strong evidence of a difference by location, but note that only semi-aquatic mammals are measured in both locations (as all aquatic are only measured in water and all terrestrial in air). So, part of the location effect may be driven by overall terrestrial-aquatic differences. Surprisingly, location suggests that breathing frequency is lower in water than on land for semi-aquatic mammals.  
 
 To dig deeper into the relationship between breath rate, mass, and habitat, we used the R package `emmeans` and its function `emtrends()` to do a post-hoc comparison of the slopes for each habitat. 
 
@@ -160,7 +158,7 @@ For each pair of habitats, we will test the null hypothesis that the *difference
 Since we are doing several hypothesis tests together, the chances of a false positive are elevated; to compensate, `emtrends()` has used Tukey's method to adjust the p-values before reporting.
 
 ```{r}
-slope_comparison <- emtrends(model_full, 
+slope_comparison <- emtrends(breath_model, 
          pairwise ~ habitat,
          var = "log_Mb")
 slope_comparison
@@ -170,29 +168,29 @@ slope_comparison
 
 The top part of the output gives a slope for each habitat with CIs. The lower "contrasts" part is where we'll focus now: it gives the p-values for the tests comparing each pair of habitats.
 
-We have very weak (for aquatic/terrestrial, p = `r slope_comparison["aquatic - terrestrial", "p.value"]`) and moderately strong (for semiaquatic - terrestrial, p = `r slope_comparison["semiaquatic - terrestrial", "p.value"]`) evidence that terrestrial habitats are different from the others. But we have no evidence (p =`r slope_comparison["aquatic - semiaquatic", "p.value"]`) that the slopes are different between aquatic and semiaquatic.
+We have weak to moderate (for aquatic/terrestrial, p = `r slope_comparison["aquatic - terrestrial", "p.value"]`) and moderate (for semiaquatic - terrestrial, p = `r slope_comparison["semiaquatic - terrestrial", "p.value"]`) evidence that terrestrial habitats are different from the others. But we have no evidence (p =`r slope_comparison["aquatic - semiaquatic", "p.value"]`) that the slopes are different between aquatic and semiaquatic.
 
-What about doing something similar for the intercepts?
+What about doing something similar for the intercepts (or marginal means)? This is not quite a correct approach - not ready to present.
 
 ```{r}
-int_comparison <- emmeans(model_full, 
+int_comparison <- emmeans(breath_model, 
          pairwise ~ habitat,
          var = "log_Mb")
-slope_comparison
-slope_comparison <- as.data.frame(slope_comparison$contrasts)
-slope_comparison
+
+int_comparison <- as.data.frame(int_comparison$contrasts)
+int_comparison
 ```
 
-## Prediction Plot
+## Model Predictions
 
-**Log-log Scale Prediction Plot**
+### Predictions by Habitat (and Location)
 
 For the prediction plots shown below, the other predictors in the model but not shown in the plot were held fixed at the following values:
 
 - activity level: 1
 - location: water for aquatic, air for terrestrial, both for semiaquatic
 
-We also add in data from Mortola and He:
+We also add in data from previous studies by Mortola and He for comparison.
 
 ```{r}
 mortola <- read_excel('data/additional-species.xlsx',
@@ -201,61 +199,81 @@ mortola <- read_excel('data/additional-species.xlsx',
          body_mass = `Body mass`,
          log_fr = log10(fr),
          breath_rate = fr,
-         common_name = species) 
+         common_name = species,
+         across(c(common_name, habitat), str_to_title)) 
 
-he <- read_excel('data/additional-species.xlsx',
+  he <- read_excel('data/additional-species.xlsx',
                               sheet = 'He') |>
-  # filter(`Common Name` %in% c('hippo', 'walrus', 'polar bear', 
-  #                             'african clawless otter', 'river otter',
-  #                             'beaver')) |>
+
   rename(log_Mb = `Log of Mass`,
          body_mass = `Mass (kg)`,
          breath_rate = `Breathing Frequency (br/min)`
          ) |>
   mutate(log_fr = log10(breath_rate),
-         common_name = `Common Name`)
+         common_name = `Common Name`,
+         across(c(common_name, habitat), str_to_title))
 ```
 
-```{r}
-predictoutput <- ggpredict(model_full,
-                           terms = c('log_Mb', 'habitat'),
-                           condition = c(activity_level = 1)) 
+```{r, data-plus-model-static}
+colrs <- c('black', 'grey70')
+log_preds <- ggpredict(breath_model,
+                           terms = c('log_Mb', 'habitat', 'location'),
+                           condition = c(activity_level = 1))
 
-# |>
-#   filter((facet == 'air' & group %in% c('terrestrial', 'semiaquatic')) |
-#            facet == 'water' & group %in% c('aquatic', 'semiaquatic'))
+log_preds <- log_preds |>
+  filter((facet == 'Air' & group %in% c('Terrestrial', 'Semiaquatic')) |
+          (facet == 'Water' & group %in% c('Aquatic', 'Semiaquatic')))
 
-
-
-natural_preds <- data.frame(mass = 10^predictoutput$x,
-                            breaths = 10^predictoutput$predicted,
-                            conf_low = 10^predictoutput$conf.low,
-                            conf_hi = 10^predictoutput$conf.high,
-                            habitat = predictoutput$group #,
-                            # location = predictoutput$facet
+natural_preds <- data.frame(mass = 10^log_preds$x,
+                            breaths = 10^log_preds$predicted,
+                            conf_low = 10^log_preds$conf.low,
+                            conf_hi = 10^log_preds$conf.high,
+                            habitat = log_preds$group,
+                            location = log_preds$facet
                             )
 # plot data
-gf_point(breath_rate ~ body_mass | habitat, # color = ~location, 
+gf_point(breath_rate ~ body_mass | habitat, color = ~location, 
          data = breath_data,
-         alpha = 0.3) |>
+         alpha = 0.6
+         ) |>
   # with log scales on both axes
-  gf_refine(scale_x_log10(), scale_y_log10()) |>
+  gf_refine(scale_x_log10(), scale_y_log10(),
+            scale_color_manual("", values = colrs)) |>
   gf_labs(x = 'Body Mass (kg)',
           y = 'Breaths per Minute') |>
   # add the predictions now
   gf_line(breaths ~ mass | habitat,
-         # color = ~location,
+          linetype = ~location,
           data = natural_preds,
     inherit = FALSE) |>
   gf_ribbon(conf_low + conf_hi ~ mass | habitat,
-          #  color = ~location, fill = ~location,
+            linetype = ~location, 
+            # fill = ~location,
             data = natural_preds,
-            inherit = FALSE)
+            inherit = FALSE,
+            alpha = 0.2) |>
+  # add in He species -- open squares
+  gf_point(breath_rate ~ body_mass | habitat,
+           inherit = FALSE,
+           data = he,
+           color = 'black',
+           label = ~common_name,
+           shape = 0) |> # 15) |>
+  # add in Mortola species -- open triangles
+  gf_point(breath_rate ~ body_mass | habitat,
+           inherit = FALSE,
+           data = mortola,
+           color = 'black',
+           label = ~common_name,
+           shape = 2) |> #17) |>
+  gf_refine(guides(color = 'none', linetype = 'none'))
 ```
 
-**Interactive Prediction Plot**
+Open squares are data points from He et al. Open triangles are data points from Mortola et al. Grey data points are taken in water, and black ones in air. Lines and ribbons show model predictions, with the solid lines indicating measurements on land and dotted lines in water.
 
-```{r}
+### Predictions by Habitat (and Location) - Interactive Version
+
+```{r, data-plus-model-interactive}
 gf_point(breath_rate ~ body_mass | habitat, data = breath_data,
          alpha = 0.3, label = ~common_name, color = ~order) |>
   # with log scales on both axes
@@ -264,11 +282,11 @@ gf_point(breath_rate ~ body_mass | habitat, data = breath_data,
           y = 'Breaths per Minute') |>
   # add the predictions now
   gf_line(breaths ~ mass | habitat,
-         # color = ~location,
+          linetype = ~location,
           data = natural_preds,
     inherit = FALSE) |>
   gf_ribbon(conf_low + conf_hi ~ mass | habitat,
-           # color = ~location,
+            linetype = ~location,
             data = natural_preds,
             inherit = FALSE) |>
   # add in He species -- grey squares
@@ -285,6 +303,7 @@ gf_point(breath_rate ~ body_mass | habitat, data = breath_data,
            color = 'grey44',
            label = ~common_name,
            shape = 17) |>
+  gf_refine(guides(linetype = "none")) |>
   ggplotly()
 ```
 

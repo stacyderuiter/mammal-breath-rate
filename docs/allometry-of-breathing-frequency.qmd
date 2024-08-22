@@ -69,11 +69,13 @@ breath_data <- breath_data |>
          activity_level, individual_name, common_name, age, temp, location) |>
   mutate(across(where(is.character), function(x) str_remove_all(x, pattern = fixed('\xc2')))) |>
   mutate(across(where(is.character), function(x) str_remove_all(x, pattern = fixed('\xa0')))) |>
+  mutate(common_name = ifelse(species == "orca", "Killer Whale", common_name)) |>
   mutate(across(c(individual_name, common_name, habitat, location), str_to_title)) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Harbour", replacement = "Harbor")) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Sabel", replacement = "Sable")) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Giraff", replacement = "Giraffe")) |>
   mutate(common_name = str_replace_all(common_name, pattern = "Asiatisk", replacement = "Asian")) |>
+  mutate(common_name = ifelse(common_name == "Brown Fur Seal", "South African Fur Seal", common_name)) |>
   mutate(activity_level = factor(activity_level),
          habitat = factor(habitat),
          location = factor(location)) |>
@@ -168,18 +170,7 @@ slope_comparison
 
 The top part of the output gives a slope for each habitat with CIs. The lower "contrasts" part is where we'll focus now: it gives the p-values for the tests comparing each pair of habitats.
 
-We have weak to moderate (for aquatic/terrestrial, p = `r slope_comparison["aquatic - terrestrial", "p.value"]`) and moderate (for semiaquatic - terrestrial, p = `r slope_comparison["semiaquatic - terrestrial", "p.value"]`) evidence that terrestrial habitats are different from the others. But we have no evidence (p =`r slope_comparison["aquatic - semiaquatic", "p.value"]`) that the slopes are different between aquatic and semiaquatic.
-
-What about doing something similar for the intercepts (or marginal means)? This is not quite a correct approach - not ready to present.
-
-```{r}
-int_comparison <- emmeans(breath_model, 
-         pairwise ~ habitat,
-         var = "log_Mb")
-
-int_comparison <- as.data.frame(int_comparison$contrasts)
-int_comparison
-```
+We have weak to moderate (for aquatic/terrestrial, p = `r slope_comparison["Aquatic - Terrestrial", "p.value"]`) and moderate (for semiaquatic - terrestrial, p = `r slope_comparison["Semiaquatic - Terrestrial", "p.value"]`) evidence that terrestrial habitats are different from the others. But we have no evidence (p =`r slope_comparison["Aquatic - Semiaquatic", "p.value"]`) that the slopes are different between aquatic and semiaquatic.
 
 ## Model Predictions
 

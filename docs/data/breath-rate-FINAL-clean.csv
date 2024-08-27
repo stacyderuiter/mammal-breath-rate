@@ -1,0 +1,1232 @@
+log_fr,log_Mb,habitat,order,family,genus,species,breath_rate,body_mass,sex,activity_level,individual_name,common_name,age,temp,location
+0.982,2,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,9.594006315,100,F,1,Dune,Addax Antelope,5,14.4,Air
+1.079,2,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.99499303,100,F,1,Dune,Addax Antelope,5,14.4,Air
+1.057,2,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.40249788,100,F,1,Dune,Addax Antelope,5,14.4,Air
+1.07,2,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.74897555,100,F,1,Dune,Addax Antelope,5,14.8,Air
+0.871,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,7.430191379,110,M,1,Leon,Addax Antelope,7,14.4,Air
+1.072,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.80320636,110,M,2,Leon,Addax Antelope,7,14.4,Air
+1.009,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,10.20939484,110,M,2,Leon,Addax Antelope,7,14.4,Air
+1.054,2.041,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.32400363,110,M,2,Leon,Addax Antelope,7,14.8,Air
+1.176,1.987,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,14.99684836,97,F,1,Tärna,Addax Antelope,6,12,Air
+1.204,1.987,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,15.99558029,97,F,1,Tärna,Addax Antelope,6,12,Air
+1.067,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.66809617,90,F,1,Tärna,Addax Antelope,7,14.4,Air
+1.057,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.40249788,90,F,1,Tärna,Addax Antelope,7,14.4,Air
+0.964,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,9.204495718,90,F,1,Tärna,Addax Antelope,7,14.4,Air
+1.054,1.954,Terrestrial,Artiodactyla,Bovidae,Addax,nasomaculatus,11.32400363,90,F,1,Tärna,Addax Antelope,7,14.8,Air
+1.391,1.915,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,24.60367604,82.2,M,2,Al,Alpaca,7,21,Air
+1.373,1.915,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,23.60478233,82.2,M,2,Al,Alpaca,7,19,Air
+1.322,1.915,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,20.98939884,82.2,M,2,Al,Alpaca,7,19,Air
+1.23,1.852,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,16.98243652,71.2,M,2,Chicco,Alpaca,4,21,Air
+1.354,1.852,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,22.5943577,71.2,M,2,Chicco,Alpaca,4,19,Air
+1.279,1.852,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,19.0107828,71.2,M,2,Chicco,Alpaca,4,19,Air
+1.441,1.844,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,27.60577856,69.9,F,2,Niobe,Alpaca,11,21,Air
+1.369,1.844,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,23.38837239,69.9,F,2,Niobe,Alpaca,11,19,Air
+1.334,1.844,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,21.57744409,69.9,F,2,Niobe,Alpaca,11,19,Air
+1.655,1.759,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,45.18559444,57.35,F,2,Paca,Alpaca,2,21,Air
+1.5,1.759,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,31.6227766,57.35,F,2,Paca,Alpaca,2,19,Air
+1.516,1.759,Terrestrial,Artiodactyla,Camelidae,Vicugna,pacos,32.80952931,57.35,F,2,Paca,Alpaca,2,19,Air
+0.869,2.763,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,7.396052751,580,F,1,Nasta,Bactarian Camel,19,1,Air
+0.869,2.763,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,7.396052751,580,F,1,Nasta,Bactarian Camel,19,1,Air
+1.127,2.81,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,13.39676687,645,F,1,Ranja,Bactarian Camel,6,1,Air
+1.152,2.81,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,14.19057522,645,F,1,Ranja,Bactarian Camel,6,1,Air
+1.1,2.81,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,12.58925412,645,F,1,Ranja,Bactarian Camel,6,1,Air
+0.982,2.811,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,9.594006315,647,F,1,Temma,Bactarian Camel,22,1,Air
+0.845,2.811,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,6.99841996,647,F,1,Temma,Bactarian Camel,22,3,Air
+1.017,2.919,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,10.39920166,830,M,1,Torkel,Bactarian Camel,13,1,Air
+1,2.919,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,10,830,M,1,Torkel,Bactarian Camel,13,3,Air
+1.041,2.806,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,10.99005839,639,F,1,Tulio,Bactarian Camel,8,1,Air
+1.134,2.81,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,13.61444682,645,F,1,Victorias,Bactarian Camel,19,1,Air
+1.127,2.81,Terrestrial,Artiodactyla,Camelidae,Camelus,bactrianus,13.39676687,645,F,1,Victorias,Bactarian Camel,19,1,Air
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,1,Yulka,Beluga,33,15.1,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,2,Yulka,Beluga,33,15,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,2,Yulka,Beluga,33,19,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,1,Yulka,Beluga,33,19,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,3,Yulka,Beluga,33,18,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,3,Yulka,Beluga,33,18,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,1,Yulka,Beluga,33,16,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,2,Yulka,Beluga,33,16,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,864.83,F,3,Yulka,Beluga,33,16,Water
+0.146,2.937,Aquatic,Artiodactyla,Monodontidae,Delphinapterus,leucas,1.399587323,865.83,F,3,Yulka,Beluga,33,16,Water
+0.146,2.316,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,207,M,1,Achille,Bottlenose Dolphin,21,24.5,Water
+0.204,2.316,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,207,M,1,Achille,Bottlenose Dolphin,21,24.5,Water
+0.204,2.312,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,205,M,2,Achille,Bottlenose Dolphin,21,24.5,Water
+0.079,2.312,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,205,M,1,Achille,Bottlenose Dolphin,21,24.5,Water
+0.204,2.312,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,205,M,1,Achille,Bottlenose Dolphin,21,24.6,Water
+0.255,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,182,M,2,Al,Bottlenose Dolphin,36,29,Water
+0.204,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,182,M,1,Al,Bottlenose Dolphin,36,29,Water
+0.079,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,182,M,1,Al,Bottlenose Dolphin,36,29,Water
+0.368,2.093,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.333458062,124,F,1,Alana,Bottlenose Dolphin,5,22,Water
+0.38,2.093,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,124,F,2,Alana,Bottlenose Dolphin,5,22,Water
+0.204,2.093,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,124,F,1,Alana,Bottlenose Dolphin,5,22,Water
+0.255,2.106,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,127.5,F,2,Alana,Bottlenose Dolphin,5,21,Water
+0.342,2.106,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,127.5,F,1,Alana,Bottlenose Dolphin,5,21,Water
+0.255,2.106,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,127.5,F,2,Alana,Bottlenose Dolphin,5,21,Water
+0.079,2.236,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,172,F,1,Alegria,Bottlenose Dolphin,36,29,Water
+0,2.236,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,172,F,1,Alegria,Bottlenose Dolphin,36,29,Water
+0,2.236,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,172,F,1,Alegria,Bottlenose Dolphin,36,29,Water
+0.204,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,155,F,3,Alicia,Bottlenose Dolphin,8,28.69,Water
+0.255,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,155,F,3,Alicia,Bottlenose Dolphin,8,28.84,Water
+0.301,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,155,F,2,Alicia,Bottlenose Dolphin,8,29.2,Water
+-0.097,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.799834255,170,F,1,Alma,Bottlenose Dolphin,39,29,Water
+0,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,170,F,1,Alma,Bottlenose Dolphin,39,29,Water
+0,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,170,F,1,Alma,Bottlenose Dolphin,39,29,Water
+0.204,2.22,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,166,F,2,Alpha,Bottlenose Dolphin,17,19.4,Water
+0.415,2.22,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,166,F,2,Alpha,Bottlenose Dolphin,17,18.5,Water
+0.38,2.22,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,166,F,2,Alpha,Bottlenose Dolphin,17,18.9,Water
+0.38,2.076,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,119,M,2,Amadeus,Bottlenose Dolphin,10,27,Water
+0.415,2.076,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,119,M,2,Amadeus,Bottlenose Dolphin,10,30,Water
+0.531,2.076,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.396252726,119,M,3,Amadeus,Bottlenose Dolphin,10,31,Water
+0.204,1.987,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,97,F,1,Anaeli,Bottlenose Dolphin,10,27.8,Water
+0.301,1.987,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,97,F,2,Anaeli,Bottlenose Dolphin,10,28.1,Water
+0.255,1.987,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,97,F,1,Anaeli,Bottlenose Dolphin,10,27.9,Water
+0,2.134,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,136,F,1,Andromaca,Bottlenose Dolphin,14,28.39,Water
+0.301,2.134,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,136,F,2,Andromaca,Bottlenose Dolphin,14,28.09,Water
+0.204,2.134,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,136,F,2,Andromaca,Bottlenose Dolphin,14,28.52,Water
+0.342,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,130,F,1,Angelica,Bottlenose Dolphin,12,28,Water
+0.505,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.19889511,130,F,3,Angelica,Bottlenose Dolphin,12,30,Water
+0.301,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,130,F,1,Angelica,Bottlenose Dolphin,12,31,Water
+0.255,2.354,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,226,M,1,Apollo,Bottlenose Dolphin,19,19.6,Water
+0.447,2.354,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,226,M,2,Apollo,Bottlenose Dolphin,19,20.3,Water
+0.204,2.354,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,226,M,1,Apollo,Bottlenose Dolphin,19,20.6,Water
+0.301,2.194,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156.4,M,1,Archer,Bottlenose Dolphin,9,26.11111111,Water
+0.255,2.194,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156.4,M,1,Archer,Bottlenose Dolphin,9,26.61111111,Water
+0.146,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157.3,M,1,Archer,Bottlenose Dolphin,9,26.5,Water
+0.505,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.19889511,157.3,M,1,Archer,Bottlenose Dolphin,9,25.66666667,Water
+0.146,2.198,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157.7,M,1,Archer,Bottlenose Dolphin,9,26.33333333,Water
+0.415,2.262,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,183,F,1,Ariel,Bottlenose Dolphin,27,22,Water
+0.204,2.262,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,183,F,1,Ariel,Bottlenose Dolphin,27,22,Water
+0.204,2.262,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,183,F,1,Ariel,Bottlenose Dolphin,27,22,Water
+0.255,2.261,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,182.5,F,2,Ariel,Bottlenose Dolphin,27,21,Water
+0.301,2.261,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,182.5,F,2,Ariel,Bottlenose Dolphin,27,21,Water
+0.301,2.261,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,182.5,F,3,Ariel,Bottlenose Dolphin,27,21,Water
+0,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,182,F,1,Ariel,Bottlenose Dolphin,27,22.4,Water
+0.255,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,182,F,2,Ariel,Bottlenose Dolphin,27,22.4,Water
+0.146,2.266,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,184.5,F,1,Ariel,Bottlenose Dolphin,27,22.4,Water
+0.146,2.267,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,185,F,1,Ariel,Bottlenose Dolphin,27,22,Water
+0.204,2.267,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,185,F,1,Ariel,Bottlenose Dolphin,27,22,Water
+0.255,2.267,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,185,F,1,Ariel,Bottlenose Dolphin,27,22,Water
+0.079,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,168,M,2,Aries,Bottlenose Dolphin,21,31,Water
+0.079,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,168,M,2,Aries,Bottlenose Dolphin,21,31,Water
+0.204,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,168,M,2,Aries,Bottlenose Dolphin,21,31,Water
+0.255,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,254,M,1,Arnie,Bottlenose Dolphin,23,17.2,Water
+0.38,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,254,M,1,Arnie,Bottlenose Dolphin,23,16.8,Water
+0.447,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,254,M,1,Arnie,Bottlenose Dolphin,23,18.5,Water
+0.146,2.072,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,118,F,2,Arya,Bottlenose Dolphin,8,28.57,Water
+0.255,2.072,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,118,F,2,Arya,Bottlenose Dolphin,8,28.63,Water
+0.38,2.072,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,118,F,3,Arya,Bottlenose Dolphin,8,28.5,Water
+0.255,2.215,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,164,F,1,Athenea,Bottlenose Dolphin,29,27.93,Water
+0.079,2.215,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,164,F,1,Athenea,Bottlenose Dolphin,29,27.15,Water
+0.204,2.215,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,164,F,2,Athenea,Bottlenose Dolphin,29,27.41,Water
+0.255,2.215,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,164,M,2,Athos,Bottlenose Dolphin,13,26.98,Water
+0.255,2.215,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,164,M,2,Athos,Bottlenose Dolphin,13,27.15,Water
+0.204,2.215,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,164,M,2,Athos,Bottlenose Dolphin,13,27.41,Water
+0.415,2.277,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,189.1,M,1,Axl,Bottlenose Dolphin,13,26.11111111,Water
+0.38,2.277,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,189.1,M,1,Axl,Bottlenose Dolphin,13,26.61111111,Water
+0.204,2.281,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,190.9,M,1,Axl,Bottlenose Dolphin,13,26.5,Water
+0.505,2.281,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.19889511,190.9,M,1,Axl,Bottlenose Dolphin,13,25.66666667,Water
+0.301,2.284,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,192.3,M,1,Axl,Bottlenose Dolphin,13,26.33333333,Water
+0.415,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,170,F,2,Azteca,Bottlenose Dolphin,28,26.98,Water
+0.301,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,170,F,2,Azteca,Bottlenose Dolphin,28,27.15,Water
+0.38,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,170,F,2,Azteca,Bottlenose Dolphin,28,27.41,Water
+0.079,2.294,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,197,F,1,Bimini,Bottlenose Dolphin,24,31,Water
+0.146,2.294,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,197,F,2,Bimini,Bottlenose Dolphin,24,31,Water
+0.255,2.294,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,197,F,2,Bimini,Bottlenose Dolphin,24,30,Water
+0.38,2.258,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,181,M,2,Bio,Bottlenose Dolphin,13,19.4,Water
+0.556,2.258,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.597493352,181,M,2,Bio,Bottlenose Dolphin,13,19.8,Water
+0.415,2.258,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,181,M,2,Bio,Bottlenose Dolphin,13,19.2,Water
+0.301,2.258,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,181,M,2,Blue,Bottlenose Dolphin,9,17.5,Water
+0.556,2.258,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.597493352,181,M,2,Blue,Bottlenose Dolphin,9,16.8,Water
+0.531,2.258,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.396252726,181,M,2,Blue,Bottlenose Dolphin,9,18.5,Water
+0.255,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,174,F,2,Calypso,Bottlenose Dolphin,9,31,Water
+0.204,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,174,F,2,Calypso,Bottlenose Dolphin,9,31,Water
+0.146,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,174,F,2,Calypso,Bottlenose Dolphin,9,30,Water
+0.255,2.283,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,192,M,1,Capi,Bottlenose Dolphin,32,29,Water
+0.146,2.283,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,192,M,2,Capi,Bottlenose Dolphin,32,29,Water
+0,2.283,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,192,M,1,Capi,Bottlenose Dolphin,32,29,Water
+0.301,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,132,M,1,Carlo,Bottlenose Dolphin,14,26.98,Water
+0.255,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,132,M,2,Carlo,Bottlenose Dolphin,14,27.15,Water
+0.204,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,132,M,2,Carlo,Bottlenose Dolphin,14,27.41,Water
+0.146,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,150,M,2,Cayman,Bottlenose Dolphin,12,31,Water
+0.146,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,150,M,2,Cayman,Bottlenose Dolphin,12,31,Water
+0.204,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,150,M,2,Cayman,Bottlenose Dolphin,12,30,Water
+0.204,2.412,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,258.5,M,1,Cecil,Bottlenose Dolphin,39,22,Water
+0.204,2.412,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,258.5,M,1,Cecil,Bottlenose Dolphin,39,22,Water
+0.255,2.414,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,259.5,M,1,Cecil,Bottlenose Dolphin,39,22,Water
+0.079,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,254,M,1,Cecil,Bottlenose Dolphin,39,21,Water
+0,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,254,M,1,Cecil,Bottlenose Dolphin,39,21,Water
+-0.097,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.799834255,254,M,1,Cecil,Bottlenose Dolphin,39,21,Water
+0.301,2.422,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,264,M,1,Cecil,Bottlenose Dolphin,39,22.4,Water
+0.301,2.422,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,264,M,1,Cecil,Bottlenose Dolphin,39,22.4,Water
+0.146,2.422,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,264,M,1,Cecil,Bottlenose Dolphin,39,22.4,Water
+0.079,2.41,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,257,M,1,Cecil,Bottlenose Dolphin,39,22,Water
+0.38,2.41,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,257,M,1,Cecil,Bottlenose Dolphin,39,22,Water
+0.204,2.41,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,257,M,1,Cecil,Bottlenose Dolphin,39,22,Water
+0.255,2.068,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,117,M,2,Cersei,Bottlenose Dolphin,8,28.63,Water
+0.38,2.068,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,117,M,2,Cersei,Bottlenose Dolphin,8,28.7,Water
+0.342,2.068,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,117,M,2,Cersei,Bottlenose Dolphin,8,29.5,Water
+0.301,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,103,M,3,Chaplin,Bottlenose Dolphin,5,27.93,Water
+0.447,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,103,M,3,Chaplin,Bottlenose Dolphin,5,27.15,Water
+0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,2,Chaplin,Bottlenose Dolphin,5,27.41,Water
+0.342,2.097,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,125,M,1,Charlie,Bottlenose Dolphin,13,27.9,Water
+0.415,2.097,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,125,M,2,Charlie,Bottlenose Dolphin,13,28.4,Water
+0.301,2.097,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,125,M,1,Charlie,Bottlenose Dolphin,13,28,Water
+0.38,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,103,F,2,Citlalli,Bottlenose Dolphin,10,26.98,Water
+0.301,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,103,F,2,Citlalli,Bottlenose Dolphin,10,27.15,Water
+0.301,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,103,F,2,Citlalli,Bottlenose Dolphin,10,27.41,Water
+0.255,2.42,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,263,M,2,Cobalt,Bottlenose Dolphin,13,31,Water
+0.255,2.42,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,263,M,2,Cobalt,Bottlenose Dolphin,13,31,Water
+0.204,2.42,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,263,M,2,Cobalt,Bottlenose Dolphin,13,30,Water
+0.146,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,149,F,1,Coco,Bottlenose Dolphin,14,28.57,Water
+0.342,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,149,F,2,Coco,Bottlenose Dolphin,14,28.63,Water
+0.255,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,149,F,2,Coco,Bottlenose Dolphin,14,28.5,Water
+0.079,2.246,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,176,M,2,Copernico,Bottlenose Dolphin,23,29,Water
+0.079,2.246,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,176,M,1,Copernico,Bottlenose Dolphin,23,29,Water
+0.146,2.246,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,176,M,1,Copernico,Bottlenose Dolphin,23,29,Water
+0.342,2.097,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,125,F,3,Cossete,Bottlenose Dolphin,11,26.98,Water
+0.146,2.097,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,125,F,2,Cossete,Bottlenose Dolphin,11,27.15,Water
+0.079,2.097,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,125,F,1,Cossete,Bottlenose Dolphin,11,27.41,Water
+0,2.064,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,116,M,1,Cronos,Bottlenose Dolphin,6,29,Water
+0,2.064,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,116,M,1,Cronos,Bottlenose Dolphin,6,29,Water
+0.146,2.064,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,116,M,2,Cronos,Bottlenose Dolphin,6,29,Water
+0.342,1.903,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,80,F,2,Daenerys,Bottlenose Dolphin,4,27.93,Water
+0.415,1.903,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,80,F,3,Daenerys,Bottlenose Dolphin,4,27.15,Water
+0.301,1.903,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,80,F,2,Daenerys,Bottlenose Dolphin,4,27.41,Water
+0.255,2.217,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,165,F,1,Daniela,Bottlenose Dolphin,34,28,Water
+0.301,2.217,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,165,F,2,Daniela,Bottlenose Dolphin,34,30,Water
+0.38,2.217,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,165,F,2,Daniela,Bottlenose Dolphin,34,30,Water
+0.146,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,170,F,2,Denise,Bottlenose Dolphin,24,31,Water
+0.146,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,170,F,2,Denise,Bottlenose Dolphin,24,31,Water
+0.204,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,170,F,2,Denise,Bottlenose Dolphin,24,31,Water
+0.38,2.185,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,153,F,3,Desire,Bottlenose Dolphin,14,28.57,Water
+0.204,2.185,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,153,F,2,Desire,Bottlenose Dolphin,14,28.63,Water
+0.301,2.185,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,153,F,3,Desire,Bottlenose Dolphin,14,28.5,Water
+0.255,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,123,M,1,Diego,Bottlenose Dolphin,11,27,Water
+0.38,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,123,M,1,Diego,Bottlenose Dolphin,11,30,Water
+0.505,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.19889511,123,M,3,Diego,Bottlenose Dolphin,11,31,Water
+0.255,2.346,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,222,M,2,Dino,Bottlenose Dolphin,27,19.2,Water
+0.477,2.346,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.999162519,222,M,1,Dino,Bottlenose Dolphin,27,20.3,Water
+0.146,2.346,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,222,M,1,Dino,Bottlenose Dolphin,27,20.7,Water
+0.255,2.104,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,127,M,2,Drake,Bottlenose Dolphin,8,29,Water
+0.342,2.104,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,127,M,2,Drake,Bottlenose Dolphin,8,29,Water
+0,2.104,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,127,M,1,Drake,Bottlenose Dolphin,8,29,Water
+0.301,2.009,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,102,M,2,Edison,Bottlenose Dolphin,6,26.98,Water
+0.415,2.009,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,102,M,3,Edison,Bottlenose Dolphin,6,27.15,Water
+0.255,2.009,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,102,M,2,Edison,Bottlenose Dolphin,6,27.41,Water
+0.301,2.127,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,134,F,2,Elena,Bottlenose Dolphin,11,30.2,Water
+0.146,2.127,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,134,F,1,Elena,Bottlenose Dolphin,11,30.16,Water
+0.255,2.127,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,134,F,2,Elena,Bottlenose Dolphin,11,30.28,Water
+0.415,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,142,F,2,Esperanza,Bottlenose Dolphin,29,29,Water
+0.204,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,142,F,1,Esperanza,Bottlenose Dolphin,29,29,Water
+0.146,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,142,F,1,Esperanza,Bottlenose Dolphin,29,29,Water
+0.079,2.188,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,154,F,1,Fenah,Bottlenose Dolphin,15,22,Water
+0.079,2.188,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,154,F,1,Fenah,Bottlenose Dolphin,15,22,Water
+0.146,2.188,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,154,F,1,Fenah,Bottlenose Dolphin,15,22,Water
+0.255,2.186,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,153.5,F,2,Fenah,Bottlenose Dolphin,15,21,Water
+0.301,2.186,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,153.5,F,2,Fenah,Bottlenose Dolphin,15,21,Water
+0.195,2.186,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.56675107,153.5,F,1,Fenah,Bottlenose Dolphin,15,21,Water
+0.204,2.188,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,154,F,1,Fenah,Bottlenose Dolphin,15,22.4,Water
+0.146,2.188,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,154,F,1,Fenah,Bottlenose Dolphin,15,22.4,Water
+0.204,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,156,F,1,Fenah,Bottlenose Dolphin,15,22.4,Water
+0.146,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157.5,F,1,Fenah,Bottlenose Dolphin,15,22,Water
+0.204,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,157.5,F,1,Fenah,Bottlenose Dolphin,15,22,Water
+0.255,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157.5,F,1,Fenah,Bottlenose Dolphin,15,22,Water
+0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,1,Fénix,Bottlenose Dolphin,11,27.8,Water
+0.255,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,103,M,1,Fénix,Bottlenose Dolphin,11,27.9,Water
+0.204,2.013,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,103,M,1,Fénix,Bottlenose Dolphin,11,28.4,Water
+0.204,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,130,M,2,Fernando,Bottlenose Dolphin,9,30.22,Water
+0.301,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,130,M,2,Fernando,Bottlenose Dolphin,9,30.28,Water
+0.301,2.114,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,130,M,2,Fernando,Bottlenose Dolphin,9,30.37,Water
+0.342,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,138,M,3,Finn,Bottlenose Dolphin,5,22,Water
+0.342,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,138,M,1,Finn,Bottlenose Dolphin,5,22,Water
+0.447,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,138,M,2,Finn,Bottlenose Dolphin,5,22,Water
+0.301,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,142,M,2,Finn,Bottlenose Dolphin,5,21,Water
+0.255,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,142,M,1,Finn,Bottlenose Dolphin,5,21,Water
+0.146,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,142,M,1,Finn,Bottlenose Dolphin,5,21,Water
+0.255,2.169,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,147.7,M,1,Finn,Bottlenose Dolphin,10,26.11111111,Water
+0.301,2.169,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,147.7,M,1,Finn,Bottlenose Dolphin,10,26.61111111,Water
+0.255,2.171,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,148.2,M,1,Finn,Bottlenose Dolphin,10,26.5,Water
+0.415,2.171,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,148.2,M,1,Finn,Bottlenose Dolphin,10,25.66666667,Water
+0.255,2.175,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,149.5,M,1,Finn,Bottlenose Dolphin,10,26.33333333,Water
+0.204,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,145,F,2,Frida,Bottlenose Dolphin,21,30.11,Water
+0.255,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,145,F,2,Frida,Bottlenose Dolphin,21,30.2,Water
+0.146,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,145,F,1,Frida,Bottlenose Dolphin,21,30.16,Water
+0.204,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,174,M,2,Galileo,Bottlenose Dolphin,20,29,Water
+0.146,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,174,M,1,Galileo,Bottlenose Dolphin,20,29,Water
+0.079,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,174,M,1,Galileo,Bottlenose Dolphin,20,29,Water
+0.342,1.968,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,93,M,2,Gandalf,Bottlenose Dolphin,6,27.93,Water
+0.38,1.968,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,93,M,3,Gandalf,Bottlenose Dolphin,6,27.15,Water
+0.342,1.968,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,93,M,2,Gandalf,Bottlenose Dolphin,6,27.41,Water
+0.38,2.155,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,143,M,1,Gaudi,Bottlenose Dolphin,10,28.39,Water
+0.415,2.155,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,143,M,1,Gaudi,Bottlenose Dolphin,10,28.09,Water
+0.301,2.155,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,143,M,1,Gaudi,Bottlenose Dolphin,10,28.52,Water
+0.146,2.111,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,129,F,2,Gemini,Bottlenose Dolphin,9,31,Water
+0.079,2.111,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,129,F,2,Gemini,Bottlenose Dolphin,9,31,Water
+0.204,2.111,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,129,F,2,Gemini,Bottlenose Dolphin,9,31,Water
+0.255,2.207,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,161,M,3,Gigio,Bottlenose Dolphin,14,26.98,Water
+0.146,2.207,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,161,M,1,Gigio,Bottlenose Dolphin,14,27.15,Water
+0.204,2.207,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,161,M,2,Gigio,Bottlenose Dolphin,14,27.41,Water
+0.146,2.182,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,152,M,2,Goya,Bottlenose Dolphin,25,28.39,Water
+0.342,2.182,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,152,M,2,Goya,Bottlenose Dolphin,25,28.09,Water
+0.342,2.182,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,152,M,2,Goya,Bottlenose Dolphin,25,28.52,Water
+0.204,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,145,F,2,Grecia,Bottlenose Dolphin,22,28.57,Water
+0.079,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,145,F,1,Grecia,Bottlenose Dolphin,22,28.63,Water
+0.301,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,145,F,2,Grecia,Bottlenose Dolphin,22,28.5,Water
+0.415,2.318,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,208,M,2,Guama,Bottlenose Dolphin,41,22,Water
+0.255,2.318,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,208,M,2,Guama,Bottlenose Dolphin,41,22,Water
+0.255,2.318,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,208,M,1,Guama,Bottlenose Dolphin,41,22,Water
+0,2.312,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,205,M,1,Guama,Bottlenose Dolphin,41,21,Water
+0.255,2.312,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,205,M,2,Guama,Bottlenose Dolphin,41,21,Water
+0.146,2.312,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,205,M,1,Guama,Bottlenose Dolphin,41,21,Water
+0.058,2.303,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.142878335,201,M,1,Guama,Bottlenose Dolphin,41,23.5,Water
+0.301,2.322,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,210,M,1,Guama,Bottlenose Dolphin,41,22,Water
+0.079,2.319,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,208.5,M,1,Guama,Bottlenose Dolphin,41,22.4,Water
+0.204,2.32,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,209,M,1,Guama,Bottlenose Dolphin,41,22.4,Water
+0.255,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,167,M,2,Hanzel,Bottlenose Dolphin,14,28.63,Water
+0.415,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,167,M,2,Hanzel,Bottlenose Dolphin,14,28.7,Water
+0.342,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,167,M,2,Hanzel,Bottlenose Dolphin,14,29.5,Water
+0.146,2.124,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,133,F,3,Havana,Bottlenose Dolphin,13,28.39,Water
+0.301,2.124,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,133,F,2,Havana,Bottlenose Dolphin,13,28.09,Water
+0.301,2.124,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,133,F,2,Havana,Bottlenose Dolphin,13,28.52,Water
+0.447,2.167,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,147,F,1,Hellen,Bottlenose Dolphin,43,27.8,Water
+0.415,2.17,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,148,F,1,Hellen,Bottlenose Dolphin,43,28.1,Water
+0.38,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,149,F,1,Hellen,Bottlenose Dolphin,43,27.9,Water
+0.342,2.045,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,111,F,2,Hermes,Bottlenose Dolphin,6,27.93,Water
+0.301,2.045,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,111,F,2,Hermes,Bottlenose Dolphin,6,27.15,Water
+0.255,2.045,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,111,F,2,Hermes,Bottlenose Dolphin,6,27.41,Water
+0.301,2.033,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,108,F,1,Hestia,Bottlenose Dolphin,9,27.8,Water
+0.255,2.033,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,108,F,1,Hestia,Bottlenose Dolphin,9,27.9,Water
+0.255,2.033,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,108,F,1,Hestia,Bottlenose Dolphin,9,28.4,Water
+0.531,2.129,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.396252726,134.7,F,3,Hopee,Bottlenose Dolphin,13,26,Water
+0.255,2.129,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,134.7,F,2,Hopee,Bottlenose Dolphin,13,24,Water
+0.415,2.129,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,134.7,F,2,Hopee,Bottlenose Dolphin,13,24,Water
+0.447,2.129,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,134.7,F,2,Hopee,Bottlenose Dolphin,13,24,Water
+0.146,2.129,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,134.7,F,2,Hopee,Bottlenose Dolphin,13,24,Water
+0.38,2.274,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,188,M,1,Hugo,Bottlenose Dolphin,27,19,Water
+0.342,2.274,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,188,M,2,Hugo,Bottlenose Dolphin,27,18.9,Water
+-0.699,2.274,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.199986187,188,M,1,Hugo,Bottlenose Dolphin,27,18.9,Water
+0.342,2.31,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,204,F,1,Iara,Bottlenose Dolphin,16,20.5,Water
+0.204,2.31,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,204,F,1,Iara,Bottlenose Dolphin,16,20.3,Water
+0.301,2.31,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,204,F,2,Iara,Bottlenose Dolphin,16,20.3,Water
+0.447,2.162,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,145.2,M,2,Indi,Bottlenose Dolphin,8,25.5,Water
+0.255,2.162,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,145.2,M,2,Indi,Bottlenose Dolphin,8,25.6,Water
+0.079,2.162,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,145.2,M,2,Indi,Bottlenose Dolphin,8,24.4,Water
+0.255,2.122,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,132.5,F,2,Izzy,Bottlenose Dolphin,8,26,Water
+0.38,2.122,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,132.5,F,3,Izzy,Bottlenose Dolphin,8,24,Water
+0.38,2.122,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,132.5,F,3,Izzy,Bottlenose Dolphin,8,24,Water
+0.531,2.122,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.396252726,132.5,F,2,Izzy,Bottlenose Dolphin,8,24,Water
+0.447,2.122,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,132.5,F,1,Izzy,Bottlenose Dolphin,8,24,Water
+0.415,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,142,M,2,Jazz,Bottlenose Dolphin,12,28.63,Water
+0.38,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,142,M,2,Jazz,Bottlenose Dolphin,12,28.7,Water
+0.477,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.999162519,142,M,3,Jazz,Bottlenose Dolphin,12,29.5,Water
+0.255,2.107,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,128,F,2,Jimena,Bottlenose Dolphin,8,30.24,Water
+0.342,2.107,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,128,F,2,Jimena,Bottlenose Dolphin,8,30.2,Water
+0.301,2.107,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,128,F,2,Jimena,Bottlenose Dolphin,8,30.2,Water
+0.204,2.365,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,232,M,2,Jj,Bottlenose Dolphin,47,31,Water
+0.079,2.365,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,232,M,2,Jj,Bottlenose Dolphin,47,31,Water
+0.204,2.365,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,232,M,2,Jj,Bottlenose Dolphin,47,31,Water
+0,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,123,F,1,Joy,Bottlenose Dolphin,8,29,Water
+0,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,123,F,1,Joy,Bottlenose Dolphin,8,29,Water
+0,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,123,F,1,Joy,Bottlenose Dolphin,8,29,Water
+0.255,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,180,F,2,Julieta,Bottlenose Dolphin,24,28.39,Water
+0.38,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,180,F,3,Julieta,Bottlenose Dolphin,24,28.09,Water
+0.255,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,180,F,1,Julieta,Bottlenose Dolphin,24,28.52,Water
+0.301,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,123,F,1,Kathy,Bottlenose Dolphin,14,27.8,Water
+0.146,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,123,F,1,Kathy,Bottlenose Dolphin,14,28.1,Water
+0.255,2.09,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,123,F,1,Kathy,Bottlenose Dolphin,14,27.9,Water
+0.204,2.283,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,192,M,2,Kepler,Bottlenose Dolphin,32,28.69,Water
+0.079,2.283,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,192,M,1,Kepler,Bottlenose Dolphin,32,28.84,Water
+0,2.283,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,192,M,1,Kepler,Bottlenose Dolphin,32,29.2,Water
+0,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,254,M,1,King,Bottlenose Dolphin,31,25.6,Water
+0,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,254,M,2,King,Bottlenose Dolphin,31,24.4,Water
+0.38,2.405,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,254,M,3,King,Bottlenose Dolphin,31,24.5,Water
+0.342,2.155,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,143,F,1,Krista,Bottlenose Dolphin,19,27.8,Water
+0.255,2.158,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,144,F,1,Krista,Bottlenose Dolphin,19,28.1,Water
+0.204,2.161,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,145,F,1,Krista,Bottlenose Dolphin,19,27.9,Water
+0.146,2.269,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,185.8,F,2,Leah,Bottlenose Dolphin,21,25.6,Water
+0.146,2.269,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,185.8,F,3,Leah,Bottlenose Dolphin,21,24.4,Water
+0.079,2.269,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,185.8,F,2,Leah,Bottlenose Dolphin,21,24.5,Water
+0.301,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,142,M,2,Leo,Bottlenose Dolphin,11,19.4,Water
+0.255,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,142,M,1,Leo,Bottlenose Dolphin,11,19.8,Water
+0.447,2.152,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,142,M,2,Leo,Bottlenose Dolphin,11,19.2,Water
+0.255,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,220,M,1,Lótus,Bottlenose Dolphin,28,19.2,Water
+0.255,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,220,M,1,Lótus,Bottlenose Dolphin,28,20.3,Water
+0.079,2.342,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,220,M,1,Lótus,Bottlenose Dolphin,28,20.7,Water
+0.204,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,180,F,1,Lua,Bottlenose Dolphin,27,20.2,Water
+0.204,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,180,F,1,Lua,Bottlenose Dolphin,27,20.8,Water
+0.342,2.255,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,180,F,3,Lua,Bottlenose Dolphin,27,21.1,Water
+0.255,2.146,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,140,F,3,Lucea,Bottlenose Dolphin,23,29,Water
+0,2.146,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,140,F,3,Lucea,Bottlenose Dolphin,23,29,Water
+0.204,2.146,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,140,F,2,Lucea,Bottlenose Dolphin,23,29,Water
+0.255,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,132,M,2,Lucky,Bottlenose Dolphin,10,29,Water
+0.38,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,132,M,2,Lucky,Bottlenose Dolphin,10,29,Water
+0.079,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,132,M,1,Lucky,Bottlenose Dolphin,10,29,Water
+0.146,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,149,F,3,Lunaa,Bottlenose Dolphin,23,29,Water
+0.204,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,149,F,3,Lunaa,Bottlenose Dolphin,23,29,Water
+0,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,149,F,1,Lunaa,Bottlenose Dolphin,23,29,Water
+0,2.146,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,140,F,1,Lunab,Bottlenose Dolphin,21,31,Water
+0,2.146,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,140,F,2,Lunab,Bottlenose Dolphin,21,31,Water
+0.146,2.146,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,140,F,2,Lunab,Bottlenose Dolphin,21,31,Water
+0.301,2.1,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,125.8,F,2,Lunac,Bottlenose Dolphin,6,25.6,Water
+0.146,2.1,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,125.8,F,2,Lunac,Bottlenose Dolphin,6,24.4,Water
+0.204,2.1,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,125.8,F,3,Lunac,Bottlenose Dolphin,6,24.5,Water
+0.146,2.234,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,171.5,F,1,Luna,Bottlenose Dolphin,22,22,Water
+0.318,2.234,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.079696687,171.5,F,2,Luna,Bottlenose Dolphin,22,22,Water
+0.079,2.234,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,171.5,F,1,Luna,Bottlenose Dolphin,22,22,Water
+0.146,2.212,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,163,F,1,Luna,Bottlenose Dolphin,22,21,Water
+0.255,2.212,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,163,F,2,Luna,Bottlenose Dolphin,22,21,Water
+0.342,2.212,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,163,F,2,Luna,Bottlenose Dolphin,22,21,Water
+0.301,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,168,F,1,Luna,Bottlenose Dolphin,22,22.4,Water
+0.079,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,168,F,1,Luna,Bottlenose Dolphin,22,22.4,Water
+0.255,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,167,F,1,Luna,Bottlenose Dolphin,22,22.4,Water
+0.38,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,170,F,2,Luna,Bottlenose Dolphin,22,22,Water
+0.146,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,170,F,1,Luna,Bottlenose Dolphin,22,22,Water
+0.255,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,170,F,1,Luna,Bottlenose Dolphin,22,22,Water
+0.255,2.281,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,191,F,2,Lunad,Bottlenose Dolphin,27,20.5,Water
+0.204,2.281,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,191,F,2,Lunad,Bottlenose Dolphin,27,20.3,Water
+0.415,2.281,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,191,F,3,Lunad,Bottlenose Dolphin,27,20.2,Water
+0.255,2.246,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,176,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+0.342,2.246,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,176,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+0.146,2.246,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,176,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+-0.097,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.799834255,177,F,1,Lyra,Bottlenose Dolphin,24,21,Water
+0.204,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,177,F,2,Lyra,Bottlenose Dolphin,24,21,Water
+0.146,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,177,F,1,Lyra,Bottlenose Dolphin,24,21,Water
+0.301,2.242,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,174.5,F,2,Lyra,Bottlenose Dolphin,24,22.4,Water
+0.301,2.243,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,175,F,1,Lyra,Bottlenose Dolphin,24,22.4,Water
+0,2.242,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,174.5,F,1,Lyra,Bottlenose Dolphin,24,22.4,Water
+0.255,2.249,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,177.5,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+0.301,2.249,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,177.5,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+0.301,2.249,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,177.5,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+0.204,2.25,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,178,F,1,Lyra,Bottlenose Dolphin,24,22,Water
+0,2.041,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,110,F,1,Macarena,Bottlenose Dolphin,6,29,Water
+0.255,2.041,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,110,F,2,Macarena,Bottlenose Dolphin,6,29,Water
+0.301,2.041,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,110,F,2,Macarena,Bottlenose Dolphin,6,29,Water
+0.342,2.228,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,169,F,1,Madonna,Bottlenose Dolphin,27,27.93,Water
+0.079,2.228,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,169,F,1,Madonna,Bottlenose Dolphin,27,27.15,Water
+0,2.228,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,169,F,1,Madonna,Bottlenose Dolphin,27,27.41,Water
+0.079,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,138,F,2,Malena,Bottlenose Dolphin,11,28.39,Water
+0.146,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,138,F,2,Malena,Bottlenose Dolphin,11,28.09,Water
+0.204,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,138,F,2,Malena,Bottlenose Dolphin,11,28.52,Water
+0.146,2.259,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,181.6,M,2,Marco,Bottlenose Dolphin,25,25.6,Water
+0.079,2.259,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,181.6,M,3,Marco,Bottlenose Dolphin,25,24.4,Water
+0.38,2.259,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,181.6,M,2,Marco,Bottlenose Dolphin,25,24.5,Water
+0.146,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,158,M,1,Matisse,Bottlenose Dolphin,23,28.39,Water
+0.342,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,158,M,2,Matisse,Bottlenose Dolphin,23,28.09,Water
+0.38,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,158,M,2,Matisse,Bottlenose Dolphin,23,28.52,Water
+0.301,2.096,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,124.8,F,2,Maya,Bottlenose Dolphin,4,25.6,Water
+0.415,2.096,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,124.8,F,2,Maya,Bottlenose Dolphin,4,24.4,Water
+0.301,2.096,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,124.8,F,3,Maya,Bottlenose Dolphin,4,24.5,Water
+0.301,2.33,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,214,M,1,Mikey,Bottlenose Dolphin,20,19.6,Water
+0.38,2.33,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,214,M,2,Mikey,Bottlenose Dolphin,20,20.3,Water
+0.079,2.33,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,214,M,1,Mikey,Bottlenose Dolphin,20,20.6,Water
+0.079,2.336,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,217,F,2,Missy,Bottlenose Dolphin,45,20.5,Water
+0.079,2.336,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,217,F,2,Missy,Bottlenose Dolphin,45,20.3,Water
+0.447,2.336,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,217,F,2,Missy,Bottlenose Dolphin,45,20.2,Water
+0.38,2.185,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,153,M,2,Monnet,Bottlenose Dolphin,20,28.39,Water
+0.38,2.185,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,153,M,3,Monnet,Bottlenose Dolphin,20,28.09,Water
+0.204,2.185,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,153,M,1,Monnet,Bottlenose Dolphin,20,28.52,Water
+0.146,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,151,F,1,Myranda,Bottlenose Dolphin,14,27.8,Water
+0.415,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,151,F,1,Myranda,Bottlenose Dolphin,14,27.9,Water
+0.342,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,151,F,1,Myranda,Bottlenose Dolphin,14,28.4,Water
+0.301,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,170,F,1,Nala1,Bottlenose Dolphin,25,28,Water
+0.255,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,170,F,1,Nala1,Bottlenose Dolphin,25,31,Water
+0.342,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,170,F,1,Nala1,Bottlenose Dolphin,25,31,Water
+0.204,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,182,F,2,Naomi,Bottlenose Dolphin,25,17.5,Water
+0.146,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,182,F,2,Naomi,Bottlenose Dolphin,25,16.8,Water
+0.477,2.26,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.999162519,182,F,2,Naomi,Bottlenose Dolphin,25,18.5,Water
+0.342,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,155,F,3,Nefti,Bottlenose Dolphin,18,28.69,Water
+0.38,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,155,F,2,Nefti,Bottlenose Dolphin,18,28.84,Water
+0.301,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,155,F,3,Nefti,Bottlenose Dolphin,18,29.2,Water
+0.342,2.238,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,173,M,2,Nemo,Bottlenose Dolphin,23,29,Water
+0.58,2.238,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.801893963,173,M,3,Nemo,Bottlenose Dolphin,23,29,Water
+0.255,2.238,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,173,M,2,Nemo,Bottlenose Dolphin,23,29,Water
+0.342,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,155,F,1,Nephele,Bottlenose Dolphin,40,22,Water
+0.255,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,155,F,1,Nephele,Bottlenose Dolphin,40,22,Water
+0.204,2.19,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,155,F,1,Nephele,Bottlenose Dolphin,40,22,Water
+0.146,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157.5,F,1,Nephele,Bottlenose Dolphin,40,21,Water
+0.204,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,157.5,F,1,Nephele,Bottlenose Dolphin,40,21,Water
+0.146,2.197,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157.5,F,1,Nephele,Bottlenose Dolphin,40,21,Water
+0,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,158,F,1,Nephele,Bottlenose Dolphin,40,22.4,Water
+0.301,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,158,F,2,Nephele,Bottlenose Dolphin,40,22.4,Water
+0.146,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,157,F,1,Nephele,Bottlenose Dolphin,40,22.4,Water
+0.301,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,150,M,3,Neptun,Bottlenose Dolphin,5,22,Water
+0.204,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,150,M,1,Neptun,Bottlenose Dolphin,5,22,Water
+0.342,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,150,M,1,Neptun,Bottlenose Dolphin,5,22,Water
+0.301,2.17,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,148,M,2,Neptun,Bottlenose Dolphin,5,21,Water
+0.255,2.17,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,148,M,2,Neptun,Bottlenose Dolphin,5,21,Water
+0.079,2.17,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,148,M,1,Neptun,Bottlenose Dolphin,5,21,Water
+0.204,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,176.9,M,1,Nicholas,Bottlenose Dolphin,21,26,Water
+0.415,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,176.9,M,2,Nicholas,Bottlenose Dolphin,21,24,Water
+0.38,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,176.9,M,2,Nicholas,Bottlenose Dolphin,21,24,Water
+0.38,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,176.9,M,2,Nicholas,Bottlenose Dolphin,21,24,Water
+0.301,2.248,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,176.9,M,1,Nicholas,Bottlenose Dolphin,21,24,Water
+0.146,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,151,F,1,Nicte,Bottlenose Dolphin,10,30.24,Water
+0.255,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,151,F,1,Nicte,Bottlenose Dolphin,10,30.2,Water
+0.255,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,151,F,2,Nicte,Bottlenose Dolphin,10,30.2,Water
+0.342,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,158.2,M,1,Nigel,Bottlenose Dolphin,9,26.11111111,Water
+0.204,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,158.2,M,1,Nigel,Bottlenose Dolphin,9,26.61111111,Water
+0.204,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,158.2,M,1,Nigel,Bottlenose Dolphin,9,26.5,Water
+0.447,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,158.2,M,1,Nigel,Bottlenose Dolphin,9,25.66666667,Water
+0.255,2.195,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156.8,M,1,Nigel,Bottlenose Dolphin,9,26.33333333,Water
+0.301,2.21,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,162,F,2,Nimbe,Bottlenose Dolphin,18,28.69,Water
+0.204,2.21,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,162,F,3,Nimbe,Bottlenose Dolphin,18,28.84,Water
+0.301,2.21,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,162,F,2,Nimbe,Bottlenose Dolphin,18,29.2,Water
+-0.097,2.212,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.799834255,163,M,1,Noxi,Bottlenose Dolphin,11,17.2,Water
+0.255,2.212,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,163,M,2,Noxi,Bottlenose Dolphin,11,16.8,Water
+0.204,2.212,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,163,M,1,Noxi,Bottlenose Dolphin,11,18.5,Water
+0.146,2.143,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,139,F,1,Odisea,Bottlenose Dolphin,28,26.98,Water
+0,2.143,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,139,F,1,Odisea,Bottlenose Dolphin,28,27.15,Water
+0.079,2.143,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,139,F,1,Odisea,Bottlenose Dolphin,28,27.41,Water
+0.301,2.398,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,250,M,2,Onyx,Bottlenose Dolphin,24,31,Water
+0.146,2.398,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,250,M,2,Onyx,Bottlenose Dolphin,24,31,Water
+0.255,2.398,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,250,M,2,Onyx,Bottlenose Dolphin,24,31,Water
+0.146,2.13,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,135,M,2,Orion,Bottlenose Dolphin,12,26.98,Water
+0.204,2.13,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,135,M,2,Orion,Bottlenose Dolphin,12,27.15,Water
+0.079,2.13,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,135,M,1,Orion,Bottlenose Dolphin,12,27.41,Water
+0.447,2.313,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,205.4,M,2,Paco,Bottlenose Dolphin,24,25.5,Water
+-0.222,2.313,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.599791076,205.4,M,1,Paco,Bottlenose Dolphin,24,25.6,Water
+0.146,2.313,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,205.4,M,2,Paco,Bottlenose Dolphin,24,24.4,Water
+0.255,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,151,M,2,Pakal,Bottlenose Dolphin,16,26.98,Water
+0.204,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,151,M,1,Pakal,Bottlenose Dolphin,16,27.15,Water
+0.146,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,151,M,1,Pakal,Bottlenose Dolphin,16,27.41,Water
+0.301,2.386,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,243,F,2,Panama,Bottlenose Dolphin,29,31,Water
+0.079,2.386,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,243,F,2,Panama,Bottlenose Dolphin,29,31,Water
+0.255,2.386,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,243,F,2,Panama,Bottlenose Dolphin,29,31,Water
+0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pärla,Bottlenose Dolphin,11,22,Water
+0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,F,1,Pärla,Bottlenose Dolphin,11,22,Water
+0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pärla,Bottlenose Dolphin,11,22,Water
+0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pärla,Bottlenose Dolphin,11,21,Water
+0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pärla,Bottlenose Dolphin,11,21,Water
+0.255,2.196,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,157,F,1,Pärla,Bottlenose Dolphin,11,21,Water
+0.079,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,156,F,1,Pärla,Bottlenose Dolphin,11,22.4,Water
+0.255,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156,F,1,Pärla,Bottlenose Dolphin,11,22.4,Water
+0.146,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,156,F,1,Pärla,Bottlenose Dolphin,11,22.4,Water
+0.204,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,156,F,1,Pärla,Bottlenose Dolphin,11,22,Water
+0.255,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,156,F,1,Pärla,Bottlenose Dolphin,11,22,Water
+0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,F,1,Pärla,Bottlenose Dolphin,11,22,Water
+0.301,2.125,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,133.5,F,1,Peach,Bottlenose Dolphin,8,22,Water
+0.255,2.125,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,133.5,F,1,Peach,Bottlenose Dolphin,8,22,Water
+0.255,2.125,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,133.5,F,1,Peach,Bottlenose Dolphin,8,22,Water
+0.255,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,132,F,1,Peach,Bottlenose Dolphin,8,21,Water
+0.222,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.667247213,132,F,1,Peach,Bottlenose Dolphin,8,21,Water
+0.342,2.121,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,132,F,2,Peach,Bottlenose Dolphin,8,21,Water
+0.38,2.116,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,130.5,F,1,Peach,Bottlenose Dolphin,8,22.4,Water
+0.415,1.892,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,78,M,2,Perseo,Bottlenose Dolphin,3,27.8,Water
+0.301,1.892,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,78,M,2,Perseo,Bottlenose Dolphin,3,28.1,Water
+0.342,1.892,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,78,M,2,Perseo,Bottlenose Dolphin,3,27.9,Water
+0.146,2.104,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,127,M,1,Platon,Bottlenose Dolphin,8,28.63,Water
+0.301,2.104,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,127,M,2,Platon,Bottlenose Dolphin,8,28.7,Water
+0.255,2.104,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,127,M,2,Platon,Bottlenose Dolphin,8,29.5,Water
+0.342,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,170,F,2,Prata,Bottlenose Dolphin,7,20.4,Water
+0.477,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.999162519,170,F,3,Prata,Bottlenose Dolphin,7,20.8,Water
+0.415,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,170,F,2,Prata,Bottlenose Dolphin,7,20.6,Water
+0.204,2.32,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,209,M,1,Primo,Bottlenose Dolphin,14,19.6,Water
+0.255,2.32,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,209,M,2,Primo,Bottlenose Dolphin,14,20.3,Water
+0.146,2.32,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,209,M,1,Primo,Bottlenose Dolphin,14,20.6,Water
+0.079,2.18,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,151.2,F,2,Quina,Bottlenose Dolphin,21,25.6,Water
+0.204,2.18,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,151.2,F,2,Quina,Bottlenose Dolphin,21,24.4,Water
+0.301,2.18,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,151.2,F,3,Quina,Bottlenose Dolphin,21,24.5,Water
+0,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,150,M,1,Reggae,Bottlenose Dolphin,15,29,Water
+0,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,150,M,1,Reggae,Bottlenose Dolphin,15,29,Water
+0,2.176,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,150,M,1,Reggae,Bottlenose Dolphin,15,29,Water
+0.342,2.236,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,172,M,2,Richie,Bottlenose Dolphin,19,29,Water
+0.602,2.236,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.999447498,172,M,3,Richie,Bottlenose Dolphin,19,29,Water
+0.204,2.236,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,172,M,2,Richie,Bottlenose Dolphin,19,29,Water
+0.255,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,149,M,1,Ringo,Bottlenose Dolphin,13,31,Water
+0.146,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,149,M,2,Ringo,Bottlenose Dolphin,13,31,Water
+0.146,2.173,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,149,M,2,Ringo,Bottlenose Dolphin,13,31,Water
+0.079,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,174,M,2,Ripley,Bottlenose Dolphin,30,31,Water
+0.079,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,174,M,2,Ripley,Bottlenose Dolphin,30,31,Water
+0.204,2.241,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,174,M,2,Ripley,Bottlenose Dolphin,30,31,Water
+0.146,2.29,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,195,M,1,Robin,Bottlenose Dolphin,41,25.6,Water
+0.204,2.29,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,195,M,2,Robin,Bottlenose Dolphin,41,24.4,Water
+0.301,2.29,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,195,M,2,Robin,Bottlenose Dolphin,41,24.5,Water
+0.204,2.22,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,166,M,2,Romeos,Bottlenose Dolphin,19,28.69,Water
+0.255,2.22,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,166,M,2,Romeos,Bottlenose Dolphin,19,28.84,Water
+0.415,2.22,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,166,M,3,Romeos,Bottlenose Dolphin,19,28.63,Water
+0.079,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,158,F,1,Sally,Bottlenose Dolphin,19,29,Water
+0.255,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,158,F,2,Sally,Bottlenose Dolphin,19,29,Water
+0.204,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,158,F,2,Sally,Bottlenose Dolphin,19,29,Water
+0.079,2.297,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,198,F,2,Samantha,Bottlenose Dolphin,37,31,Water
+0.204,2.297,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,198,F,2,Samantha,Bottlenose Dolphin,37,31,Water
+0.146,2.297,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,198,F,2,Samantha,Bottlenose Dolphin,37,31,Water
+0.204,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,170,F,1,Scarlet,Bottlenose Dolphin,34,29,Water
+0.342,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,170,F,1,Scarlet,Bottlenose Dolphin,34,30,Water
+0.477,2.23,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.999162519,170,F,2,Scarlet,Bottlenose Dolphin,34,31,Water
+-0.097,2.13,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.799834255,135,F,1,Shakira,Bottlenose Dolphin,16,28.57,Water
+0.146,2.13,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,135,F,2,Shakira,Bottlenose Dolphin,16,28.63,Water
+0.204,2.13,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,135,F,2,Shakira,Bottlenose Dolphin,16,28.5,Water
+0.204,2.021,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,105,F,2,Sherlock,Bottlenose Dolphin,6,29,Water
+0.255,2.021,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,105,F,2,Sherlock,Bottlenose Dolphin,6,29,Water
+0.079,2.021,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,105,F,1,Sherlock,Bottlenose Dolphin,6,29,Water
+0.38,2.201,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,159,M,2,Simbad,Bottlenose Dolphin,26,27.93,Water
+0.079,2.201,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,159,M,1,Simbad,Bottlenose Dolphin,26,27.15,Water
+0,2.201,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,159,M,1,Simbad,Bottlenose Dolphin,26,27.41,Water
+0.301,2.124,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,133,F,2,Sissy,Bottlenose Dolphin,13,17.5,Water
+0.415,2.124,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,133,F,2,Sissy,Bottlenose Dolphin,13,16.8,Water
+0.447,2.124,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.79898132,133,F,2,Sissy,Bottlenose Dolphin,13,18.5,Water
+0.146,2.233,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,171,F,2,Skye,Bottlenose Dolphin,26,31,Water
+0.079,2.233,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,171,F,2,Skye,Bottlenose Dolphin,26,31,Water
+0.146,2.233,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,171,F,2,Skye,Bottlenose Dolphin,26,31,Water
+0.255,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,138,F,2,Sofia,Bottlenose Dolphin,9,30.22,Water
+0.255,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,138,F,2,Sofia,Bottlenose Dolphin,9,30.28,Water
+0.342,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,138,F,2,Sofia,Bottlenose Dolphin,9,30.37,Water
+0.255,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,138,F,2,Soraida,Bottlenose Dolphin,8,30.24,Water
+0.255,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,138,F,2,Soraida,Bottlenose Dolphin,8,30.2,Water
+0.301,2.14,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,138,F,2,Soraida,Bottlenose Dolphin,8,30.2,Water
+0.301,2.167,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,147,F,2,Squirt,Bottlenose Dolphin,13,31,Water
+0.204,2.167,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,147,F,2,Squirt,Bottlenose Dolphin,13,31,Water
+0.204,2.167,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,147,F,2,Squirt,Bottlenose Dolphin,13,31,Water
+0.255,2.207,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,161,F,2,Star,Bottlenose Dolphin,24,31,Water
+0.146,2.207,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,161,F,2,Star,Bottlenose Dolphin,24,31,Water
+0.146,2.207,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,161,F,2,Star,Bottlenose Dolphin,24,31,Water
+0.146,2.303,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,201,M,2,Sundance,Bottlenose Dolphin,33,31,Water
+0.146,2.303,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,201,M,2,Sundance,Bottlenose Dolphin,33,31,Water
+0.079,2.303,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,201,M,2,Sundance,Bottlenose Dolphin,33,31,Water
+0.342,2.301,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,200,M,1,Tabo,Bottlenose Dolphin,30,19.5,Water
+0.255,2.301,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,200,M,1,Tabo,Bottlenose Dolphin,30,20.6,Water
+0.204,2.301,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,200,M,2,Tabo,Bottlenose Dolphin,30,19,Water
+0.38,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,151,M,2,Taras,Bottlenose Dolphin,9,19.4,Water
+0.531,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.396252726,151,M,2,Taras,Bottlenose Dolphin,9,18.5,Water
+0.38,2.179,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,151,M,2,Taras,Bottlenose Dolphin,9,18,Water
+0.079,2.037,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,109,F,1,Tesla,Bottlenose Dolphin,6,29,Water
+0.301,2.037,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,109,F,2,Tesla,Bottlenose Dolphin,6,29,Water
+0.255,2.037,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,109,F,2,Tesla,Bottlenose Dolphin,6,29,Water
+-0.222,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.599791076,158,F,2,Thai,Bottlenose Dolphin,11,26.6,Water
+0.146,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,158,F,2,Thai,Bottlenose Dolphin,11,24.4,Water
+0,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1,158,F,3,Thai,Bottlenose Dolphin,11,24.5,Water
+0.301,2.076,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,119,M,1,Tiziano,Bottlenose Dolphin,6,27.8,Water
+0.255,2.076,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,119,M,1,Tiziano,Bottlenose Dolphin,6,27.9,Water
+0.301,2.076,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,119,M,1,Tiziano,Bottlenose Dolphin,6,28.4,Water
+0.301,2.045,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,111,F,2,Tonalli,Bottlenose Dolphin,5,27.93,Water
+0.301,2.045,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,111,F,2,Tonalli,Bottlenose Dolphin,5,27.15,Water
+0.255,2.045,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,111,F,2,Tonalli,Bottlenose Dolphin,5,27.41,Water
+0.301,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,156,M,3,Ulises,Bottlenose Dolphin,16,28.69,Water
+0.342,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.197859873,156,M,2,Ulises,Bottlenose Dolphin,16,28.84,Water
+0.204,2.193,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,156,M,2,Ulises,Bottlenose Dolphin,16,28.63,Water
+0.301,2.318,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,208,M,2,Ulisse,Bottlenose Dolphin,26,24.5,Water
+0.38,2.318,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,208,M,2,Ulisse,Bottlenose Dolphin,26,24.5,Water
+0.255,2.33,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,214,M,2,Ulisse,Bottlenose Dolphin,26,24.5,Water
+0.204,2.33,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,214,M,2,Ulisse,Bottlenose Dolphin,26,24.5,Water
+0.204,2.33,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,214,M,1,Ulisse,Bottlenose Dolphin,26,24.6,Water
+0.623,2.29,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,4.19758984,195,M,2,Ulisses,Bottlenose Dolphin,20,19,Water
+0.38,2.29,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.398832919,195,M,2,Ulisses,Bottlenose Dolphin,20,18.9,Water
+-0.222,2.29,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,0.599791076,195,M,1,Ulisses,Bottlenose Dolphin,20,18.9,Water
+0.301,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,168,F,3,Valeria,Bottlenose Dolphin,18,26.98,Water
+0.204,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,168,F,2,Valeria,Bottlenose Dolphin,18,27.15,Water
+0.301,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,168,F,3,Valeria,Bottlenose Dolphin,18,27.41,Water
+0.255,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,158,F,1,Venus,Bottlenose Dolphin,28,28.69,Water
+0.301,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,158,F,2,Venus,Bottlenose Dolphin,28,28.84,Water
+0.079,2.199,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,158,F,1,Venus,Bottlenose Dolphin,28,29.2,Water
+0.301,2.356,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,227,F,2,Xinana,Bottlenose Dolphin,24,20.2,Water
+0.146,2.356,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,227,F,1,Xinana,Bottlenose Dolphin,24,20.4,Water
+0.415,2.356,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,2.600159563,227,F,2,Xinana,Bottlenose Dolphin,24,20.8,Water
+0.556,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,3.597493352,167,M,2,Zeus,Bottlenose Dolphin,13,25.5,Water
+0.255,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.798870915,167,M,2,Zeus,Bottlenose Dolphin,13,25.6,Water
+0.301,2.223,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.99986187,167,M,3,Zeus,Bottlenose Dolphin,13,24.4,Water
+0.079,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.199499303,168,M,2,Zo,Bottlenose Dolphin,17,31,Water
+0.146,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.399587323,168,M,2,Zo,Bottlenose Dolphin,17,31,Water
+0.204,2.225,Aquatic,Artiodactyla,Delphinidae,Tursiops,truncatus,1.599558029,168,M,2,Zo,Bottlenose Dolphin,17,31,Water
+-0.023,2.824,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,0.948418463,667,F,1,Amma,False Killer Whale,NA,21.8,Water
+0.227,2.824,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.686553025,667,F,3,Amma,False Killer Whale,NA,21.8,Water
+0.133,2.538,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.358313447,345,F,2,Arsa,False Killer Whale,NA,21.8,Water
+0.383,2.538,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,2.415460834,345,F,2,Arsa,False Killer Whale,NA,22,Water
+-0.023,2.702,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,0.948418463,503,M,1,Dars,False Killer Whale,NA,21.8,Water
+0.362,2.799,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,2.301441817,630,M,2,Gon,False Killer Whale,NA,21.8,Water
+0.517,2.799,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,3.288516309,630,M,2,Gon,False Killer Whale,NA,22,Water
+0.477,2.799,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,2.999162519,630,M,1,Gon,False Killer Whale,NA,22,Water
+0.273,2.743,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.874994508,553,F,2,Momo,False Killer Whale,NA,21.8,Water
+0.186,2.743,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.534616983,553,F,1,Momo,False Killer Whale,NA,21.8,Water
+0.368,2.743,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,2.333458062,553,F,2,Momo,False Killer Whale,NA,21.8,Water
+0.204,2.743,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.599558029,553,F,1,Momo,False Killer Whale,NA,21.8,Water
+0.176,2.743,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.499684836,553,F,1,Momo,False Killer Whale,NA,21.8,Water
+0.189,2.743,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.54525444,553,F,1,Momo,False Killer Whale,NA,22,Water
+0.125,2.97,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.333521432,933,M,1,Tida,False Killer Whale,NA,21.8,Water
+0.146,2.97,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,1.399587323,933,M,1,Tida,False Killer Whale,NA,21.8,Water
+0.39,2.97,Aquatic,Artiodactyla,Delphinidae,Pseudorca,crassidens,2.454708916,933,M,2,Tida,False Killer Whale,NA,22,Water
+0.699,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,5.00034535,950,M,1,Garp,Giraffe,17,14.4,Air
+0.869,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.396052751,950,M,1,Garp,Giraffe,17,14,Air
+0.462,2.978,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,2.897343588,950,M,1,Garp,Giraffe,17,14.5,Air
+0.973,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,9.397233106,750,F,1,Marilyn,Giraffe,17,14.4,Air
+0.924,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,8.394599865,750,F,1,Marilyn,Giraffe,17,14,Air
+0.672,2.875,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,4.698941086,750,F,1,Marilyn,Giraffe,17,14.5,Air
+0.778,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,5.997910763,900,M,1,Merkurius,Giraffe,8,14.4,Air
+0.869,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.396052751,900,M,1,Merkurius,Giraffe,8,14,Air
+0.82,2.954,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,6.60693448,900,M,1,Merkurius,Giraffe,8,14.5,Air
+0.903,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.99834255,650,F,1,Norma,Giraffe,5,14.4,Air
+0.857,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,7.19448978,650,F,1,Norma,Giraffe,5,14,Air
+0.97,2.813,Terrestrial,Artiodactyla,Giraffidae,Giraffa,camelopardalis reticulata,9.332543008,650,F,1,Norma,Giraffe,5,14.5,Air
+0.38,1.559,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.398832919,36.2,F,3,B,Harbor Porpoise,4,17,Water
+0.342,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.197859873,67.6,F,2,A,Harbor Porpoise,28,16,Water
+0.477,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.999162519,67.6,F,2,A,Harbor Porpoise,28,15,Water
+0.447,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.79898132,67.6,F,2,A,Harbor Porpoise,28,17,Water
+0.447,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.79898132,67.6,F,3,A,Harbor Porpoise,28,20,Water
+0.447,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.79898132,67.6,F,2,A,Harbor Porpoise,28,21,Water
+0.342,1.559,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.197859873,36.2,F,2,B,Harbor Porpoise,4,16,Water
+0.255,1.559,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,1.798870915,36.2,F,2,B,Harbor Porpoise,4,15,Water
+0.301,1.559,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,1.99986187,36.2,F,2,B,Harbor Porpoise,4,17,Water
+0.477,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.999162519,35.5,M,3,B,Harbor Porpoise,4,20,Water
+0.531,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,3.396252726,35.5,M,3,B,Harbor Porpoise,4,17,Water
+0.477,1.559,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.999162519,36.2,F,2,B,Harbor Porpoise,4,21,Water
+0.447,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.79898132,35.5,M,2,C,Harbor Porpoise,4,16,Water
+0.301,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,1.99986187,35.5,M,2,C,Harbor Porpoise,4,15,Water
+0.342,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.197859873,35.5,M,3,C,Harbor Porpoise,4,17,Water
+0.531,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,3.396252726,35.5,M,3,C,Harbor Porpoise,4,20,Water
+0.38,1.55,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.398832919,35.5,M,2,C,Harbor Porpoise,4,21,Water
+0.477,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.999162519,67.6,F,3,A,Harbor Porpoise,28,17,Water
+0.447,1.83,Aquatic,Artiodactyla,Phocoenidae,Phocoena,phocoena,2.79898132,67.6,F,2,A,Harbor Porpoise,28,20,Water
+0.342,2.393,Aquatic,Artiodactyla,Delphinidae,Tursiops,aduncus,2.197859873,247,F,1,Kuni,Hybdrid Bottlenose,1989,21.8,Water
+-0.222,3.27,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.599791076,1862,M,1,Adan,Killer Whale,13,13.3,Water
+0.146,3.27,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.399587323,1862,M,2,Adan,Killer Whale,13,13.4,Water
+0.041,3.27,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.099005839,1860,M,2,Adan,Killer Whale,13,13.4,Water
+-0.046,3.27,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.899497582,1860,M,2,Adan,Killer Whale,13,13.4,Water
+-0.301,3.27,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.500034535,1860,M,1,Adan,Killer Whale,13,13.5,Water
+0,3.565,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1,3670,M,2,Keto,Killer Whale,28,13.3,Water
+0.146,3.565,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.399587323,3670,M,2,Keto,Killer Whale,28,13.4,Water
+-0.097,3.567,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.799834255,3690,M,1,Keto,Killer Whale,28,13.4,Water
+-0.398,3.567,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.39994475,3690,M,1,Keto,Killer Whale,28,13.4,Water
+-0.046,3.567,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.899497582,3690,M,2,Keto,Killer Whale,28,13.5,Water
+0.041,3.334,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.099005839,2156,F,2,Morgan,Killer Whale,15,13.3,Water
+0.079,3.334,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.199499303,2156,F,2,Morgan,Killer Whale,18,13.4,Water
+-0.046,3.334,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.899497582,2160,F,2,Morgan,Killer Whale,18,13.4,Water
+0.079,3.334,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.199499303,2160,F,2,Morgan,Killer Whale,18,13.4,Water
+0,3.334,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1,2160,F,2,Morgan,Killer Whale,18,13.5,Water
+0.041,3.487,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.099005839,3066,M,2,Tekoa,Killer Whale,23,13.3,Water
+0.041,3.487,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1.099005839,3066,M,2,Tekoa,Killer Whale,23,13.4,Water
+-0.097,3.487,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.799834255,3068,M,1,Tekoa,Killer Whale,23,13.4,Water
+0,3.487,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1,3068,M,2,Tekoa,Killer Whale,23,13.4,Water
+-0.155,3.487,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.699841996,3068,M,1,Tekoa,Killer Whale,23,13.5,Water
+-0.097,3.505,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.799834255,3200,F,1,Toki,Killer Whale,58,14.1,Water
+0,3.505,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,1,3200,F,1,Toki,Killer Whale,58,13.7,Water
+-0.222,3.505,Aquatic,Artiodactyla,Delphinidae,Orcinus,orca,0.599791076,3200,F,1,Toki,Killer Whale,58,14,Water
+1.061,1.778,Terrestrial,Artiodactyla,Bovidae,Nanger,dama mhorr,11.50800389,60,M,1,Dexter,Mihor Gazelle,4,14.4,Air
+1.247,1.653,Terrestrial,Artiodactyla,Bovidae,Nanger,dama mhorr,17.66037821,45,F,1,Un,Mihor Gazelle,3,14.8,Air
+0.58,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,3.801893963,78,M,2,Elelo,Pacific White-Sided Dolphin,5,17,Water
+0.38,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.398832919,78,M,2,Elelo,Pacific White-Sided Dolphin,5,17,Water
+0.447,1.892,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.79898132,78,M,1,Elelo,Pacific White-Sided Dolphin,5,16.6,Water
+0.301,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,1.99986187,106,M,2,Lii,Pacific White-Sided Dolphin,40,14.1,Water
+0.447,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.79898132,106,M,2,Lii,Pacific White-Sided Dolphin,40,13.7,Water
+0.342,2.025,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.197859873,106,M,2,Lii,Pacific White-Sided Dolphin,40,14,Water
+0.643,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,4.395416154,96,F,2,Loke,Pacific White-Sided Dolphin,40,17,Water
+0.301,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,1.99986187,96,F,2,Loke,Pacific White-Sided Dolphin,40,17,Water
+0.477,1.982,Aquatic,Artiodactyla,Delphinidae,Lagenorhynchus,obliquidens,2.999162519,96,F,1,Loke,Pacific White-Sided Dolphin,40,16.6,Water
+0.103,2.23,Aquatic,Artiodactyla,Delphinidae,Feresa,attenuata,1.267651866,170,M,1,Mu,Pygmy Killer Whale,21,21.8,Water
+0.146,2.23,Aquatic,Artiodactyla,Delphinidae,Feresa,attenuata,1.399587323,170,M,1,Mu,Pygmy Killer Whale,21,21.8,Water
+0.301,2.23,Aquatic,Artiodactyla,Delphinidae,Feresa,attenuata,1.99986187,170,M,1,Mu,Pygmy Killer Whale,21,22,Water
+0.146,1.918,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.399587323,82.7,F,1,Dagny,Rough Toothed Dolphin,8,25,Water
+0,1.918,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1,82.7,F,1,Dagny,Rough Toothed Dolphin,8,25,Water
+0.079,1.918,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.199499303,82.7,F,1,Dagny,Rough Toothed Dolphin,8,25,Water
+0,2.05,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1,112.2,F,1,Doris,Rough Toothed Dolphin,26,25,Water
+0.079,2.05,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.199499303,112.2,F,1,Doris,Rough Toothed Dolphin,26,25,Water
+0.079,2.05,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.199499303,112.2,F,1,Doris,Rough Toothed Dolphin,26,25,Water
+0,2.09,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1,122.9,F,1,Kitana,Rough Toothed Dolphin,16,25,Water
+0.079,2.09,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.199499303,122.9,F,1,Kitana,Rough Toothed Dolphin,16,25,Water
+0.146,2.09,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.399587323,122.9,F,1,Kitana,Rough Toothed Dolphin,16,25,Water
+0.204,1.979,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.599558029,95.3,M,1,Rex,Rough Toothed Dolphin,10,26,Water
+0.146,1.979,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.399587323,95.3,M,1,Rex,Rough Toothed Dolphin,10,24,Water
+0.204,1.979,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.599558029,95.3,M,1,Rex,Rough Toothed Dolphin,10,24,Water
+0.204,1.979,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.599558029,95.3,M,1,Rex,Rough Toothed Dolphin,10,24,Water
+0.146,1.907,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.399587323,80.7,M,1,Rudy,Rough Toothed Dolphin,7,26,Water
+0.204,1.907,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.599558029,80.7,M,1,Rudy,Rough Toothed Dolphin,7,24,Water
+-0.097,1.907,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,0.799834255,80.7,M,1,Rudy,Rough Toothed Dolphin,7,24,Water
+0.146,1.907,Aquatic,Artiodactyla,Delphinidae,Steno,bredanensis,1.399587323,80.7,M,2,Rudy,Rough Toothed Dolphin,7,24,Water
+1.243,1.813,Terrestrial,Artiodactyla,Bovidae,Hippotragus,niger,17.49846689,65,F,2,Tisa,Sable Antelope,2,12,Air
+1.041,2.217,Terrestrial,Artiodactyla,Bovidae,Budorcas,taxicolor taxicolor,10.99005839,165,F,1,Mahila,Takin,5,5,Air
+0.954,2.217,Terrestrial,Artiodactyla,Bovidae,Budorcas,taxicolor taxicolor,8.994975815,165,F,1,Mahila,Takin,5,15,Air
+0.987,2.322,Terrestrial,Artiodactyla,Bovidae,Budorcas,taxicolor taxicolor,9.705099672,210,M,1,Nanook,Takin,6,4,Air
+0.903,2.322,Terrestrial,Artiodactyla,Bovidae,Budorcas,taxicolor taxicolor,7.99834255,210,M,1,Nanook,Takin,6,15,Air
+0.97,2.322,Terrestrial,Artiodactyla,Bovidae,Budorcas,taxicolor taxicolor,9.332543008,210,M,1,Nanook,Takin,6,15,Air
+0.978,2.322,Terrestrial,Artiodactyla,Bovidae,Budorcas,taxicolor taxicolor,9.506047937,210,M,1,Nanook,Takin,6,15,Air
+1.261,2.204,Terrestrial,Carnivora,Felidae,Panthera,tigris altaica,18.23895702,160,F,1,Zima,Amur Tiger,7,5,Air
+1.14,2.204,Terrestrial,Carnivora,Felidae,Panthera,tigris altaica,13.80384265,160,M,1,Zima,Amur Tiger,7,5,Air
+0.477,1.839,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,69,F,2,Chilli,California Sea Lion,24,29.3,Water
+0.556,1.839,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,69,F,2,Chilli,California Sea Lion,24,23.4,Water
+0.447,1.839,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,69,F,2,Chilli,California Sea Lion,24,26.4,Water
+0.477,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,136,M,1,André,California Sea Lion,27,18.5,Water
+0.663,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.602565736,136,M,2,André,California Sea Lion,27,18.6,Water
+0.38,2.134,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,136,M,2,André,California Sea Lion,27,19.4,Water
+0.146,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.399587323,210,M,2,Anúbis,California Sea Lion,20,18.8,Water
+0.602,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,210,M,2,Anúbis,California Sea Lion,20,21,Water
+0.342,2.322,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,210,M,2,Anúbis,California Sea Lion,20,20.5,Water
+0.342,2.328,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,213,M,2,Anúbis,California Sea Lion,20,20.1,Water
+0.531,2.328,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,213,M,1,Anúbis,California Sea Lion,20,16,Air
+0.477,2.215,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,164,M,2,Berkley,California Sea Lion,5,27,Water
+0.447,2.215,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,164,M,2,Berkley,California Sea Lion,5,26.4,Water
+0.477,2.215,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,164,M,2,Berkley,California Sea Lion,5,26.5,Water
+0.38,2.477,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,300,M,1,Bud,California Sea Lion,19,27,Water
+0.602,2.477,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,300,M,2,Bud,California Sea Lion,19,27.4,Water
+0.623,2.477,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.19758984,300,M,2,Bud,California Sea Lion,19,27.1,Water
+0.447,1.884,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,76.6,F,2,Calis,California Sea Lion,15,23,Water
+0.38,1.884,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,76.6,F,1,Calis,California Sea Lion,15,22,Water
+-0.097,1.884,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,0.799834255,76.6,F,2,Calis,California Sea Lion,15,22.27777778,Water
+0.301,1.884,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,76.6,F,1,Calis,California Sea Lion,15,22.27777778,Water
+0.556,2.167,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,147,M,1,Cartouche,California Sea Lion,27,18.5,Water
+0.447,2.167,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,147,M,2,Cartouche,California Sea Lion,27,18.6,Water
+0.415,2.182,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,152,M,2,Cartouche,California Sea Lion,27,19.4,Water
+0.748,2.182,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,5.597576015,152,M,1,Cartouche,California Sea Lion,27,16,Air
+0.732,2.076,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,5.395106225,119,M,3,Champ,California Sea Lion,5,26.5,Water
+0.82,2.076,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,6.60693448,119,M,3,Champ,California Sea Lion,5,27.1,Water
+0.556,2.076,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,119,M,2,Champ,California Sea Lion,5,27.5,Water
+0.301,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,73,F,2,Clara,California Sea Lion,9,23,Water
+0.477,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,73,F,2,Clara,California Sea Lion,9,22,Water
+0.477,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,73,F,2,Clara,California Sea Lion,9,22.27777778,Water
+0.415,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,73,F,2,Clara,California Sea Lion,9,22.27777778,Water
+0.477,2.439,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,275,M,2,Clyde,California Sea Lion,19,26.5,Water
+0.301,2.439,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,275,M,2,Clyde,California Sea Lion,19,27.1,Water
+0.58,2.439,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,275,M,2,Clyde,California Sea Lion,19,27.5,Water
+0.342,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,99,F,2,Córis,California Sea Lion,23,19.4,Water
+0.447,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,99,F,3,Córis,California Sea Lion,23,19.3,Water
+0.342,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,99,F,2,Córis,California Sea Lion,23,20.1,Water
+0.531,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,99,F,2,Córis,California Sea Lion,23,21.2,Water
+0.477,1.996,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,99,F,1,Córis,California Sea Lion,23,16,Air
+0.342,2.253,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,179,M,2,Gonzo,California Sea Lion,14,13,Water
+0.415,2.252,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,178.8,M,2,Gonzo,California Sea Lion,14,13,Water
+0.415,2.255,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,179.8,M,2,Gonzo,California Sea Lion,14,13,Water
+0.38,2.258,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,181.1,M,2,Gonzo,California Sea Lion,14,13,Water
+0.342,2.258,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,181,M,2,Gonzo,California Sea Lion,14,14,Water
+0.255,2.021,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.798870915,105,F,1,Irma,California Sea Lion,24,14,Air
+0.38,2.021,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,105,F,2,Irma,California Sea Lion,24,19.3,Water
+0.531,2.021,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,105,F,1,Irma,California Sea Lion,24,15,Air
+0.301,2.017,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,104,F,2,Irma,California Sea Lion,24,21.7,Water
+0.447,1.9,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,79.5,F,2,June,California Sea Lion,17,18,Water
+0.58,1.903,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,80,F,2,June,California Sea Lion,17,18,Water
+0.531,1.904,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,80.2,F,2,June,California Sea Lion,17,17,Water
+0.602,1.905,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,80.4,F,2,June,California Sea Lion,17,16.5,Water
+0.623,1.904,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.19758984,80.2,F,2,June,California Sea Lion,17,15.5,Water
+0.415,1.897,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,78.8,F,2,Lunaee,California Sea Lion,21,18,Water
+0.556,1.898,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,79,F,2,Lunaee,California Sea Lion,21,18,Water
+0.58,1.886,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,77,F,2,Lunaee,California Sea Lion,21,16.5,Water
+0.447,1.876,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,75.2,F,2,Lunaee,California Sea Lion,21,15,Water
+0.643,1.866,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.395416154,73.4,F,2,Lunaee,California Sea Lion,21,14.5,Water
+0.301,2.256,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,180.4,M,1,Magellan,California Sea Lion,30,15,Air
+0.301,2.256,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,180.2,M,1,Magellan,California Sea Lion,30,15.5,Air
+0.301,2.26,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,181.8,M,1,Magellan,California Sea Lion,30,16,Air
+0.447,2.26,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,181.8,M,2,Magellan,California Sea Lion,30,18,Water
+0.342,2.26,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,181.8,M,1,Magellan,California Sea Lion,30,16.5,Air
+0.342,2.26,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.197859873,181.8,M,1,Magellan,California Sea Lion,30,16,Air
+0.477,2.009,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,102,F,2,Mahi,California Sea Lion,13,27,Water
+0.301,2.009,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,102,F,2,Mahi,California Sea Lion,13,26.4,Water
+0.146,2.009,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.399587323,102,F,1,Mahi,California Sea Lion,13,26.5,Water
+0.477,1.876,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,75.1,F,1,Maia,California Sea Lion,10,22.22222222,Water
+0.204,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.599558029,76.2,F,2,Maia,California Sea Lion,10,23,Water
+0.301,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,76.2,F,2,Maia,California Sea Lion,10,22,Water
+0,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1,76.2,F,2,Maia,California Sea Lion,10,22.27777778,Water
+0.38,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,76.2,F,2,Maia,California Sea Lion,10,22.27777778,Water
+0.477,1.845,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,70,F,2,Marina,California Sea Lion,9,27,Water
+1.072,1.845,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,11.80320636,70,F,3,Marina,California Sea Lion,9,27.4,Water
+0.531,1.845,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,70,F,2,Marina,California Sea Lion,9,27.1,Water
+0.477,1.799,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,63,F,1,Mia,California Sea Lion,8,16,Air
+0.415,1.799,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,63,F,3,Mia,California Sea Lion,8,21.2,Water
+0.531,1.799,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,63,F,2,Mia,California Sea Lion,8,21.8,Water
+0.415,1.799,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,63,F,2,Mia,California Sea Lion,8,21.9,Water
+0.477,2.207,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,161,M,2,Monterey,California Sea Lion,9,27,Water
+0.602,2.207,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,161,M,2,Monterey,California Sea Lion,9,27.4,Water
+0.447,2.207,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,161,M,2,Monterey,California Sea Lion,9,27.1,Water
+0.531,2.262,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,183,M,2,Moose,California Sea Lion,21,26.4,Water
+0.663,2.262,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.602565736,183,M,2,Moose,California Sea Lion,21,26.5,Water
+0.681,2.262,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.797334486,183,M,2,Moose,California Sea Lion,21,27,Water
+0.58,1.813,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,65,F,3,Nala,California Sea Lion,13,23.6,Water
+0.505,1.813,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.19889511,65,F,3,Nala,California Sea Lion,13,28.1,Water
+0.531,1.813,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,65,F,2,Nala,California Sea Lion,13,26.3,Water
+0.556,2.236,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,172,M,2,Pablo,California Sea Lion,7,19.2,Water
+0.477,2.236,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,172,M,2,Pablo,California Sea Lion,7,19.5,Water
+0.301,2.236,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.99986187,172,M,2,Pablo,California Sea Lion,7,19.5,Water
+0.681,2.236,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.797334486,172,M,1,Pablo,California Sea Lion,7,18,Air
+0.079,2.297,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.199499303,198,M,2,Pancho,California Sea Lion,11,18.8,Water
+0.204,2.297,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.599558029,198,M,2,Pancho,California Sea Lion,11,19.3,Water
+0.204,2.297,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.599558029,198,M,2,Pancho,California Sea Lion,11,18.9,Water
+0.146,2.301,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.399587323,200,M,1,Pancho,California Sea Lion,11,16,Air
+0.447,1.931,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,85.3,F,1,Pyp,California Sea Lion,10,23,Water
+0.38,1.931,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,85.3,F,2,Pyp,California Sea Lion,10,22,Water
+0.447,1.931,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,85.3,F,2,Pyp,California Sea Lion,10,22.27777778,Water
+0.447,1.931,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,85.3,F,2,Pyp,California Sea Lion,10,22.27777778,Water
+0.531,1.879,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,75.6,F,1,Sakari,California Sea Lion,15,22.22222222,Water
+0.38,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,76.2,F,2,Sakari,California Sea Lion,15,23,Water
+0.204,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.599558029,76.2,F,2,Sakari,California Sea Lion,15,22,Water
+0.204,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,1.599558029,76.2,F,2,Sakari,California Sea Lion,15,22.27777778,Water
+0.415,1.882,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.600159563,76.2,F,2,Sakari,California Sea Lion,15,22.27777778,Water
+0.643,1.991,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.395416154,98,F,2,Sake,California Sea Lion,11,27,Water
+0.924,1.991,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,8.394599865,98,F,3,Sake,California Sea Lion,11,27.4,Water
+0.556,1.991,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,98,F,2,Sake,California Sea Lion,11,27.1,Water
+0.643,1.913,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.395416154,81.8,F,2,Shouka,California Sea Lion,11,18,Water
+0.447,1.968,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,92.8,F,2,Shouka,California Sea Lion,11,18,Water
+0.58,1.97,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,93.4,F,2,Shouka,California Sea Lion,11,18,Water
+0.623,1.973,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.19758984,94,F,2,Shouka,California Sea Lion,11,18,Water
+0.531,1.966,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,92.4,F,2,Shouka,California Sea Lion,11,17,Water
+0.602,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,73,F,3,Snapper,California Sea Lion,11,26.5,Water
+0.964,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,9.204495718,73,F,3,Snapper,California Sea Lion,11,27.1,Water
+0.881,1.863,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,7.603262769,73,F,3,Snapper,California Sea Lion,11,27.5,Water
+0.58,1.949,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,89,F,2,Sushi,California Sea Lion,21,26.4,Water
+0.602,1.949,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,89,F,2,Sushi,California Sea Lion,21,26.5,Water
+0.643,1.949,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.395416154,89,F,1,Sushi,California Sea Lion,21,27,Water
+0.477,2.255,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,180,M,3,Tao,California Sea Lion,13,23.4,Water
+0.643,2.255,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.395416154,180,M,2,Tao,California Sea Lion,13,23.1,Water
+0.623,2.255,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.19758984,180,M,3,Tao,California Sea Lion,13,26.7,Water
+0.531,2.27,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,186,M,2,Tuga,California Sea Lion,7,18.8,Water
+0.477,2.27,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.999162519,186,M,2,Tuga,California Sea Lion,7,19.3,Water
+0.38,2.27,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,186,M,2,Tuga,California Sea Lion,7,18.9,Water
+0.556,2.276,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.597493352,189,M,1,Tuga,California Sea Lion,7,16,Air
+0.38,1.954,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,90,F,2,Tuna,California Sea Lion,12,26.5,Water
+0.58,1.954,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.801893963,90,F,3,Tuna,California Sea Lion,12,27.1,Water
+0.38,1.954,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.398832919,90,F,2,Tuna,California Sea Lion,12,27.5,Water
+0.447,2.423,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,2.79898132,265,M,2,Vito,California Sea Lion,25,23.7,Water
+0.643,2.423,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.395416154,265,M,3,Vito,California Sea Lion,25,26.5,Water
+0.663,2.423,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,4.602565736,265,M,3,Vito,California Sea Lion,25,26.5,Water
+0.602,1.987,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.999447498,97,F,2,Wahoo,California Sea Lion,12,27,Water
+0.748,1.987,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,5.597576015,97,F,2,Wahoo,California Sea Lion,12,27.4,Water
+0.531,1.987,Semiaquatic,Carnivora,Otariidae,Zalophus,californianus,3.396252726,97,F,2,Wahoo,California Sea Lion,12,27.1,Water
+0.415,2.322,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.600159563,210,M,2,Arat,Grey Seal,30,30.6,Water
+0.556,2.322,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.597493352,210,M,2,Arat,Grey Seal,30,27.1,Water
+0.447,2.322,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.79898132,210,M,3,Arat,Grey Seal,30,27.4,Water
+0.38,1.978,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.398832919,95,F,1,Gaia,Grey Seal,16,29.3,Water
+0.342,1.978,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.197859873,95,F,1,Gaia,Grey Seal,16,23.4,Water
+0.301,1.978,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,1.99986187,95,F,2,Gaia,Grey Seal,16,26.4,Water
+0.38,1.892,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.398832919,78,M,1,Gigio,Grey Seal,7,28.7,Water
+0.447,1.892,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.79898132,78,M,2,Gigio,Grey Seal,7,28.1,Water
+0.447,1.892,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.79898132,78,M,2,Gigio,Grey Seal,7,26.3,Water
+0.447,2.258,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.79898132,181,M,2,Griso,Grey Seal,21,19.9,Water
+0.505,2.258,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.19889511,181,M,1,Griso,Grey Seal,21,16,Air
+0.477,2.258,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.999162519,181,M,2,Griso,Grey Seal,21,21.2,Water
+0.342,2.258,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.197859873,181,M,1,Griso,Grey Seal,21,19.2,Water
+0.301,1.991,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,1.99986187,98,F,2,Liivi,Grey Seal,29,18.8,Water
+-0.222,1.991,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,0.599791076,98,F,1,Liivi,Grey Seal,29,19.4,Water
+0.477,1.991,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.999162519,98,F,1,Liivi,Grey Seal,29,19.3,Water
+0.415,2.072,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.600159563,118,F,1,Matilda,Grey Seal,33,13,Air
+0.505,2.057,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.19889511,114,F,1,Matilda,Grey Seal,33,19.4,Water
+0.505,2.057,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.19889511,114,F,1,Matilda,Grey Seal,33,16,Air
+0.505,2.057,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.19889511,114,F,2,Matilda,Grey Seal,33,19.7,Water
+0.301,2.045,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,1.99986187,111,F,2,Matilda,Grey Seal,33,21.3,Water
+0.623,2.045,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,4.19758984,111,M,3,Quling,Grey Seal,10,19.4,Water
+0.505,2.045,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.19889511,111,M,1,Quling,Grey Seal,10,13,Air
+0.531,2.041,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.396252726,110,M,2,Quling,Grey Seal,10,20.1,Water
+0.38,2.041,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.398832919,110,M,2,Quling,Grey Seal,10,20.2,Water
+0.342,2.029,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,2.197859873,107,F,2,Vinja,Grey Seal,29,18.8,Water
+0.505,2.029,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,3.19889511,107,F,2,Vinja,Grey Seal,29,19.3,Water
+0.301,2.029,Semiaquatic,Carnivora,Phocidae,Halichoerus,grypus,1.99986187,107,F,2,Vinja,Grey Seal,29,18.9,Water
+0.447,1.987,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.79898132,97,M,2,Ace,Harbor Seal,18,26,Water
+0.146,1.987,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.399587323,97,M,1,Ace,Harbor Seal,18,26.4,Water
+0.602,1.987,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.999447498,97,M,2,Ace,Harbor Seal,18,27,Water
+0.255,1.806,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.798870915,64,F,1,Bristol,Harbor Seal,10,8.888888889,Water
+0.505,1.806,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,64,F,1,Bristol,Harbor Seal,10,11,Water
+0.556,1.806,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.597493352,64,F,1,Bristol,Harbor Seal,10,10.27777778,Water
+0.255,1.806,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.798870915,64,F,1,Bristol,Harbor Seal,10,10,Water
+0.255,1.806,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.798870915,64,F,1,Bristol,Harbor Seal,10,10.88888889,Water
+-0.222,1.886,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,0.599791076,77,F,1,Cali,Harbor Seal,13,26.5,Water
+0.146,1.886,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.399587323,77,F,1,Cali,Harbor Seal,13,27.7,Water
+0.663,1.886,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,4.602565736,77,F,1,Cali,Harbor Seal,13,27,Water
+-0.222,2.013,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,0.599791076,103,M,1,Cane,Harbor Seal,13,26,Water
+-0.097,2.013,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,0.799834255,103,M,2,Cane,Harbor Seal,13,26.4,Water
+0.204,2.013,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.599558029,103,M,2,Cane,Harbor Seal,13,27,Water
+0.38,1.934,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,86,M,2,Chico,Harbor Seal,23,20.5,Water
+0.477,1.934,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,86,M,2,Chico,Harbor Seal,23,21.2,Water
+0.602,1.934,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.999447498,86,M,2,Chico,Harbor Seal,23,20.4,Water
+0.602,1.934,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.999447498,86,M,1,Chico,Harbor Seal,23,19,Air
+0.415,2.097,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,125,M,2,Collosus,Harbor Seal,17,26.5,Water
+0.833,2.097,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,6.807693587,125,M,3,Collosus,Harbor Seal,17,27.7,Water
+0.204,2.097,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.599558029,125,M,2,Collosus,Harbor Seal,17,26.5,Water
+0.415,1.911,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,81.5,F,1,Coral,Harbor Seal,11,8.444444444,Water
+0.447,1.911,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.79898132,81.5,F,1,Coral,Harbor Seal,11,8.944444444,Water
+0.146,1.911,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.399587323,81.5,F,1,Coral,Harbor Seal,11,8.888888889,Water
+0.505,1.916,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,82.5,F,1,Coral,Harbor Seal,11,9.444444444,Water
+0.531,1.916,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.396252726,82.5,F,1,Coral,Harbor Seal,11,10.16666667,Water
+0.342,1.949,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,89,M,1,Cork,Harbor Seal,10,8.444444444,Water
+0.477,1.949,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,89,M,2,Cork,Harbor Seal,10,8.944444444,Water
+0,1.949,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1,89,M,1,Cork,Harbor Seal,10,8.888888889,Water
+0.415,1.952,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,89.5,M,1,Cork,Harbor Seal,10,9.444444444,Water
+0.447,1.952,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.79898132,89.5,M,1,Cork,Harbor Seal,10,10.16666667,Water
+0.505,1.952,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,89.5,M,1,Cork,Harbor Seal,10,10.88888889,Water
+0.748,1.826,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,5.597576015,67,F,2,Darky,Harbor Seal,34,19.6,Water
+0.732,1.826,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,5.395106225,67,F,1,Darky,Harbor Seal,34,19.6,Water
+0.806,1.826,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,6.397348355,67,F,2,Darky,Harbor Seal,34,20.6,Water
+0.58,1.892,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.801893963,78,M,2,Eddie,Harbor Seal,27,19.2,Water
+0.342,1.892,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,78,M,2,Eddie,Harbor Seal,27,20,Water
+0.38,1.892,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,78,M,2,Eddie,Harbor Seal,27,20.4,Water
+0.38,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,58,M,2,Félix,Harbor Seal,6,20,Water
+0.477,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,58,M,2,Félix,Harbor Seal,6,20,Water
+0.58,1.763,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.801893963,58,M,2,Félix,Harbor Seal,6,20.6,Water
+0.079,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.199499303,93,M,1,Halifax,Harbor Seal,11,8.888888889,Water
+0.204,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.599558029,93,M,1,Halifax,Harbor Seal,11,10.16666667,Water
+0.342,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,93,M,1,Halifax,Harbor Seal,11,11,Water
+0.477,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,93,M,1,Halifax,Harbor Seal,11,10.27777778,Water
+0,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1,93,M,1,Halifax,Harbor Seal,11,10,Water
+0.531,1.968,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.396252726,93,M,1,Halifax,Harbor Seal,11,10.88888889,Water
+0.505,1.792,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,62,F,1,Hope,Harbor Seal,20,29.4,Water
+0.301,1.792,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.99986187,62,F,2,Hope,Harbor Seal,20,27,Water
+0.699,1.792,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,5.00034535,62,F,1,Hope,Harbor Seal,20,27,Water
+0.447,1.748,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.79898132,56,F,2,Kaia,Harbor Seal,8,19.2,Water
+0.556,1.748,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.597493352,56,F,2,Kaia,Harbor Seal,8,20,Water
+0.079,1.748,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.199499303,56,F,2,Kaia,Harbor Seal,8,20,Water
+0.748,1.748,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,5.597576015,56,F,1,Kaia,Harbor Seal,8,16,Air
+0.255,1.959,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.798870915,91,F,1,Ocean,Harbor Seal,10,27.7,Water
+0.301,1.959,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.99986187,91,F,1,Ocean,Harbor Seal,10,26.4,Water
+0.663,1.959,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,4.602565736,91,F,1,Ocean,Harbor Seal,10,27,Water
+0.301,1.863,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.99986187,73,F,1,Pearl,Harbor Seal,11,8.444444444,Water
+0.556,1.863,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.597493352,73,F,2,Pearl,Harbor Seal,11,8.944444444,Water
+0.301,1.872,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.99986187,74.5,F,1,Pearl,Harbor Seal,11,9.444444444,Water
+0.477,1.872,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,74.5,F,1,Pearl,Harbor Seal,11,10.16666667,Water
+0.342,1.872,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,74.5,F,1,Pearl,Harbor Seal,11,11,Water
+0.415,1.872,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,74.5,F,1,Pearl,Harbor Seal,11,10.88888889,Water
+0.623,1.863,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,4.19758984,73,F,1,Penelope,Harbor Seal,22,29.4,Water
+0.38,1.863,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,73,F,1,Penelope,Harbor Seal,22,28.1,Water
+0.505,1.863,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,73,F,1,Penelope,Harbor Seal,22,26.3,Water
+0.748,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,5.597576015,68,F,2,Pharoah,Harbor Seal,8,26.5,Water
+0.477,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,68,F,2,Pharoah,Harbor Seal,8,27.7,Water
+0.643,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,4.395416154,68,F,1,Pharoah,Harbor Seal,8,27,Water
+0.58,1.826,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.801893963,67,F,2,Rogue,Harbor Seal,5,26.5,Water
+0.38,1.826,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.398832919,67,F,1,Rogue,Harbor Seal,5,27.7,Water
+0.602,1.826,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.999447498,67,F,2,Rogue,Harbor Seal,5,26.4,Water
+0.477,1.924,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.999162519,84,F,2,Scallop,Harbor Seal,8,26.5,Water
+0.763,1.924,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,5.794286964,84,F,3,Scallop,Harbor Seal,8,27.7,Water
+0.556,1.924,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.597493352,84,F,1,Scallop,Harbor Seal,8,26.4,Water
+0.602,2.1,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.999447498,126,M,1,Spanky,Harbor Seal,23,8.944444444,Water
+0,2.1,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1,126,M,1,Spanky,Harbor Seal,24,8.888888889,Water
+0.255,2.1,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.798870915,126,M,1,Spanky,Harbor Seal,24,10.16666667,Water
+0.255,2.1,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1.798870915,126,M,1,Spanky,Harbor Seal,24,11,Water
+0.505,2.1,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,126,M,1,Spanky,Harbor Seal,24,10.27777778,Water
+0.415,1.799,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,63,M,2,Tatto,Harbor Seal,6,29.3,Water
+0.505,1.799,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,3.19889511,63,M,2,Tatto,Harbor Seal,6,27,Water
+0.623,1.799,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,4.19758984,63,M,2,Tatto,Harbor Seal,6,26.4,Water
+0,1.916,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,1,82.5,F,1,Victoria,Harbor Seal,11,8.888888889,Water
+0.415,1.908,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,81,F,1,Victoria,Harbor Seal,11,11,Water
+0.415,1.908,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.600159563,81,F,1,Victoria,Harbor Seal,11,10.27777778,Water
+0.447,1.908,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.79898132,81,F,1,Victoria,Harbor Seal,11,10,Water
+0.342,1.908,Semiaquatic,Carnivora,Phocidae,Phoca,vitulina,2.197859873,81,F,1,Victoria,Harbor Seal,11,10.88888889,Water
+0.903,2.29,Terrestrial,Carnivora,Felidae,Panthera,leo,7.99834255,195,F,1,Saida,Lion,14,15,Air
+1.342,2.29,Terrestrial,Carnivora,Felidae,Panthera,leo,21.97859873,195,F,1,Saida,Lion,14,14,Air
+0.991,2.29,Terrestrial,Carnivora,Felidae,Panthera,leo,9.794899854,195,F,1,Saida,Lion,14,14,Air
+1.134,2.29,Terrestrial,Carnivora,Felidae,Panthera,leo,13.61444682,195,F,1,Saida,Lion,14,14,Air
+0.903,2.29,Terrestrial,Carnivora,Felidae,Panthera,leo,7.99834255,195,F,1,Saida,Lion,14,14,Air
+1.423,1.176,Terrestrial,Carnivora,Felidae,Lynx,lynx,26.48500139,15,F,1,Lovika,Lo Djur,12,4,Air
+1.45,1.176,Terrestrial,Carnivora,Felidae,Lynx,lynx,28.18382931,15,F,1,Lovika,Lo Djur,12,4,Air
+1.342,1.176,Terrestrial,Carnivora,Felidae,Lynx,lynx,21.97859873,15,F,1,Lovika,Lo Djur,12,1,Air
+0.505,1.985,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,3.19889511,96.5,M,2,Adak,Northern Fur Seal,8,8.444444444,Water
+0.204,1.985,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.599558029,96.5,M,1,Adak,Northern Fur Seal,8,2.222222222,Air
+0.255,1.991,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.798870915,98,M,1,Adak,Northern Fur Seal,8,9.444444444,Water
+0.255,1.991,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.798870915,98,M,1,Adak,Northern Fur Seal,8,10.16666667,Water
+0.342,1.991,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.197859873,98,M,1,Adak,Northern Fur Seal,8,11,Water
+0.477,1.991,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.999162519,98,M,1,Adak,Northern Fur Seal,8,10.88888889,Water
+0.342,1.525,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.197859873,33.5,F,2,Kivli,Northern Fur Seal,8,8.444444444,Water
+0.204,1.525,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.599558029,33.5,F,1,Kivli,Northern Fur Seal,8,8.888888889,Water
+0.38,1.531,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.398832919,34,F,2,Kivli,Northern Fur Seal,8,2.222222222,Air
+0.38,1.531,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.398832919,34,F,1,Kivli,Northern Fur Seal,8,10.16666667,Water
+0.38,1.531,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.398832919,34,F,1,Kivli,Northern Fur Seal,8,11,Water
+0.505,1.531,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,3.19889511,34,F,1,Kivli,Northern Fur Seal,8,10.88888889,Water
+0.556,1.525,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,3.597493352,33.5,F,1,Kivli,Northern Fur Seal,8,10.61111111,Water
+0.415,1.785,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.600159563,61,M,2,Tuk,Northern Fur Seal,5,8.444444444,Water
+0.255,1.785,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.798870915,61,M,1,Tuk,Northern Fur Seal,5,2.222222222,Air
+0.301,1.799,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.99986187,63,M,2,Tuk,Northern Fur Seal,5,2.222222222,Air
+0.204,1.799,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.599558029,63,M,2,Tuk,Northern Fur Seal,5,12.77777778,Air
+0.301,1.799,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.99986187,63,M,1,Tuk,Northern Fur Seal,5,11,Water
+0.415,1.799,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.600159563,63,M,1,Tuk,Northern Fur Seal,5,10.88888889,Water
+0.505,1.82,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,3.19889511,66,M,1,Tuk,Northern Fur Seal,5,2.222222222,Air
+0.531,1.82,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,3.396252726,66,M,1,Tuk,Northern Fur Seal,5,10.44444444,Water
+0.415,1.724,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.600159563,53,F,1,Yura,Northern Fur Seal,16,9.444444444,Air
+0.531,1.724,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,3.396252726,53,F,1,Yura,Northern Fur Seal,16,7.222222222,Air
+0.415,1.728,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.600159563,53.5,F,1,Yura,Northern Fur Seal,16,5.555555556,Air
+0.301,1.728,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,1.99986187,53.5,F,1,Yura,Northern Fur Seal,16,10.55555556,Air
+0.415,1.728,Semiaquatic,Carnivora,Otariidae,Callorhinus,ursinus,2.600159563,53.5,F,1,Yura,Northern Fur Seal,16,10,Air
+0.985,1.447,Terrestrial,Carnivora,Felidae,Panthera,uncia,9.66050879,28,M,1,Khoomi,Snow Leopard,5,1,Air
+1.239,1.447,Terrestrial,Carnivora,Felidae,Panthera,uncia,17.33803998,28,M,1,Khoomi,Snow Leopard,5,2,Air
+1.255,1.447,Terrestrial,Carnivora,Felidae,Panthera,uncia,17.98870915,28,M,1,Khoomi,Snow Leopard,15,9,Air
+1.338,1.447,Terrestrial,Carnivora,Felidae,Panthera,uncia,21.77709772,28,M,1,Khoomi,Snow Leopard,15,6,Air
+1.629,1.447,Terrestrial,Carnivora,Felidae,Panthera,uncia,42.55984131,28,M,1,Khoomi,Snow Leopard,15,12,Air
+1.261,1.556,Terrestrial,Carnivora,Felidae,Panthera,uncia,18.23895702,36,F,1,Mias,Snow Leopard,13,4,Air
+1.028,1.556,Terrestrial,Carnivora,Felidae,Panthera,uncia,10.66596121,36,F,1,Nyima,Snow Leopard,2,1,Air
+0.97,1.556,Terrestrial,Carnivora,Felidae,Panthera,uncia,9.332543008,36,F,1,Nyima,Snow Leopard,2,2,Air
+1.23,1.556,Terrestrial,Carnivora,Felidae,Panthera,uncia,16.98243652,36,F,1,Nyima,Snow Leopard,2,2,Air
+0.602,1.857,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.999447498,72,F,1,Akilah,South African Fur Seal,23,8,Air
+0.643,1.857,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,4.395416154,72,F,1,Akilah,South African Fur Seal,23,16,Air
+0.556,1.857,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,72,F,1,Akilah,South African Fur Seal,23,10,Air
+0.792,1.863,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,6.194410751,73,F,1,Akilah,South African Fur Seal,23,25,Air
+0.531,1.863,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.396252726,73,F,1,Akilah,South African Fur Seal,23,25,Air
+0.845,1.863,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,6.99841996,73,F,1,Akilah,South African Fur Seal,23,25,Air
+0.833,1.799,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,6.807693587,63,F,2,Akilah,South African Fur Seal,23,9,Air
+0.643,1.423,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,4.395416154,26.5,F,2,Ebb,South African Fur Seal,4,7,Air
+0.748,1.423,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.597576015,26.5,F,3,Ebb,South African Fur Seal,4,7,Air
+0.643,1.423,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,4.395416154,26.5,F,1,Ebb,South African Fur Seal,4,16,Air
+0.602,1.431,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.999447498,27,F,2,Ebb,South African Fur Seal,4,25,Air
+0.699,1.505,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.00034535,32,F,1,Flod,South African Fur Seal,3,7,Air
+0.556,1.505,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,32,F,2,Flod,South African Fur Seal,3,10,Air
+0.602,1.505,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.999447498,32,F,1,Flod,South African Fur Seal,3,10,Air
+0.556,1.544,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,35,F,1,Flod,South African Fur Seal,3,25,Air
+0.505,1.544,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.19889511,35,F,1,Flod,South African Fur Seal,3,25,Air
+0.505,2.146,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.19889511,140,M,2,Gil,South African Fur Seal,25,19.6,Water
+0.991,2.146,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,9.794899854,140,M,2,Gil,South African Fur Seal,25,21,Air
+0.763,2.146,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.794286964,140,M,1,Gil,South African Fur Seal,25,18,Air
+0.342,2.146,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.197859873,140,M,2,Gil,South African Fur Seal,25,20.4,Water
+0.477,2.173,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.999162519,149,M,1,Maji,South African Fur Seal,12,9,Air
+0.556,2.279,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,190,M,1,Maji,South African Fur Seal,12,8,Air
+0.447,2.225,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.79898132,168,M,1,Maji,South African Fur Seal,12,25,Air
+0.204,2.225,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.599558029,168,M,1,Maji,South African Fur Seal,12,25,Air
+0.447,2.225,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.79898132,168,M,1,Maji,South African Fur Seal,12,25,Air
+0.602,2.207,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.999447498,161,M,2,Maji,South African Fur Seal,12,7,Water
+0.623,1.597,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,4.19758984,39.5,M,2,Muskot,South African Fur Seal,4,7,Air
+0.602,1.597,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.999447498,39.5,M,1,Muskot,South African Fur Seal,4,8,Air
+0.556,1.597,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,39.5,M,1,Muskot,South African Fur Seal,4,16,Air
+0.477,1.602,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.999162519,40,M,1,Muskot,South African Fur Seal,4,25,Air
+0.301,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.99986187,57,F,1,Säly,South African Fur Seal,10,8,Air
+0.255,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.798870915,57,F,1,Säly,South African Fur Seal,10,16,Air
+0.342,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.197859873,57,F,1,Säly,South African Fur Seal,10,10,Air
+0.58,1.74,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.801893963,55,F,1,Säly,South African Fur Seal,10,25,Air
+0.699,1.756,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.00034535,57,F,2,Säly,South African Fur Seal,10,4.1,Water
+0.732,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.395106225,69,F,2,Stella,South African Fur Seal,10,7,Air
+0.38,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.398832919,69,F,1,Stella,South African Fur Seal,10,8,Air
+0.415,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.600159563,69,F,1,Stella,South African Fur Seal,10,16,Air
+0.556,1.799,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,63,F,1,Stella,South African Fur Seal,10,25,Air
+0.82,1.799,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,6.60693448,63,F,1,Stella,South African Fur Seal,10,25,Air
+0.663,1.839,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,4.602565736,69,F,2,Stella,South African Fur Seal,10,7,Water
+0.778,1.836,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,5.997910763,68.5,F,2,Stella,South African Fur Seal,10,4.1,Water
+0.38,1.836,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.398832919,68.5,F,1,Timjan,South African Fur Seal,10,8,Air
+0.556,1.836,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.597493352,68.5,F,1,Timjan,South African Fur Seal,10,16,Air
+0.415,1.845,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,2.600159563,70,F,1,Timjan,South African Fur Seal,10,25,Air
+0.623,1.845,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,4.19758984,70,F,1,Timjan,South African Fur Seal,10,25,Air
+0.505,1.845,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,3.19889511,70,F,1,Timjan,South African Fur Seal,10,25,Air
+0.301,1.857,Semiaquatic,Carnivora,Otariidae,Arctocephalus,pusillus,1.99986187,72,F,2,Timjan,South African Fur Seal,10,7,Water
+0.58,1.875,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,3.801893963,75,F,1,Dora,South American Sea Lion,15,26.98,Water
+0.415,1.875,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.600159563,75,F,1,Dora,South American Sea Lion,15,27.15,Water
+0.447,1.875,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.79898132,75,F,1,Dora,South American Sea Lion,15,27.41,Water
+0.255,1.944,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,1.798870915,88,M,2,Karel,South American Sea Lion,20,21.2,Water
+0.38,1.944,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.398832919,88,M,2,Karel,South American Sea Lion,20,21.2,Water
+0.342,1.944,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.197859873,88,M,1,Karel,South American Sea Lion,20,20.8,Water
+0.415,1.944,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.600159563,88,M,1,Karel,South American Sea Lion,20,16,Air
+0.38,1.924,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.398832919,84,F,2,Mandy,South American Sea Lion,9,23.4,Water
+0.531,1.924,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,3.396252726,84,F,1,Mandy,South American Sea Lion,9,27,Water
+0.505,1.924,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,3.19889511,84,F,2,Mandy,South American Sea Lion,9,26.6,Water
+0.663,1.954,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,4.602565736,90,F,2,Nixie,South American Sea Lion,19,26.98,Water
+0.505,1.954,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,3.19889511,90,F,1,Nixie,South American Sea Lion,19,27.15,Water
+0.447,1.954,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.79898132,90,F,1,Nixie,South American Sea Lion,19,27.41,Water
+0.732,2.114,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,5.395106225,130,F,1,Teide,South American Sea Lion,28,23.4,Water
+0.748,2.114,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,5.597576015,130,F,1,Teide,South American Sea Lion,28,26.6,Water
+0.806,2.114,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,6.397348355,130,F,2,Teide,South American Sea Lion,28,26,Water
+0.477,2.375,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.999162519,237,M,1,Zazu,South American Sea Lion,16,26.98,Water
+0.415,2.375,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,2.600159563,237,M,2,Zazu,South American Sea Lion,16,27.15,Water
+0.505,2.375,Semiaquatic,Carnivora,Otariidae,Otaria,flavesencs,3.19889511,237,M,2,Zazu,South American Sea Lion,16,27.41,Water
+0.079,1.756,Semiaquatic,Carnivora,Phocidae,Phoca,largha,1.199499303,57,F,1,Nuna,Spotted Seal,4,8.888888889,Water
+0.079,1.756,Semiaquatic,Carnivora,Phocidae,Phoca,largha,1.199499303,57,F,1,Nuna,Spotted Seal,4,10.16666667,Water
+0.505,1.756,Semiaquatic,Carnivora,Phocidae,Phoca,largha,3.19889511,57,F,1,Nuna,Spotted Seal,4,11,Water
+0.255,1.756,Semiaquatic,Carnivora,Phocidae,Phoca,largha,1.798870915,57,F,1,Nuna,Spotted Seal,4,10.27777778,Water
+0.204,1.756,Semiaquatic,Carnivora,Phocidae,Phoca,largha,1.599558029,57,F,1,Nuna,Spotted Seal,4,10,Water
+0.079,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,largha,1.199499303,68,F,2,Siku,Spotted Seal,8,8.888888889,Water
+0.204,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,largha,1.599558029,68,F,1,Siku,Spotted Seal,8,10.16666667,Water
+0.38,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,largha,2.398832919,68,F,1,Siku,Spotted Seal,8,11,Water
+0.38,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,largha,2.398832919,68,F,1,Siku,Spotted Seal,8,10.27777778,Water
+0.415,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,largha,2.600159563,68,F,1,Siku,Spotted Seal,8,10,Water
+0.38,1.833,Semiaquatic,Carnivora,Phocidae,Phoca,largha,2.398832919,68,F,1,Siku,Spotted Seal,8,10.88888889,Water
+0.255,2.617,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.798870915,414,M,1,Astro,Steller Sea Lion,17,8.444444444,Water
+0.204,2.617,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.599558029,414,M,1,Astro,Steller Sea Lion,17,7.777777778,Air
+0.531,2.617,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.396252726,414,M,2,Astro,Steller Sea Lion,17,8.888888889,Water
+0.415,2.612,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.600159563,409,M,1,Astro,Steller Sea Lion,17,2.222222222,Air
+0.342,2.612,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.197859873,409,M,1,Astro,Steller Sea Lion,17,12.77777778,Air
+0.556,2.612,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.597493352,409,M,1,Astro,Steller Sea Lion,17,10.88888889,Water
+0.415,2.268,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.600159563,185.5,F,1,Eden,Steller Sea Lion,23,8.444444444,Water
+0.38,2.268,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.398832919,185.5,F,1,Eden,Steller Sea Lion,23,8.944444444,Water
+0.38,2.268,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.398832919,185.5,F,1,Eden,Steller Sea Lion,23,8.888888889,Water
+0.415,2.265,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.600159563,184,F,1,Eden,Steller Sea Lion,23,9.444444444,Water
+0.38,2.265,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.398832919,184,F,1,Eden,Steller Sea Lion,23,10.16666667,Water
+0.301,2.318,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.99986187,208,F,1,Perl,Steller Sea Lion,7,8.444444444,Water
+0.415,2.318,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.600159563,208,F,1,Perl,Steller Sea Lion,7,8.944444444,Water
+0.301,2.318,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.99986187,208,F,1,Perl,Steller Sea Lion,7,8.888888889,Water
+0.301,2.318,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.99986187,208,F,1,Perl,Steller Sea Lion,7,9.444444444,Water
+0.415,2.318,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.600159563,208,F,1,Perl,Steller Sea Lion,7,10.16666667,Water
+0.342,2.354,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.197859873,226,F,1,Sitka,Steller Sea Lion,17,8.444444444,Water
+0.477,2.354,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.999162519,226,F,1,Sitka,Steller Sea Lion,17,8.944444444,Water
+0.255,2.354,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.798870915,226,F,1,Sitka,Steller Sea Lion,17,8.888888889,Water
+0.255,2.356,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.798870915,227,F,1,Sitka,Steller Sea Lion,17,9.444444444,Water
+0.255,2.356,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.798870915,227,F,1,Sitka,Steller Sea Lion,17,10.16666667,Water
+0.278753601,2.934498451,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,1.9,860,M,3,Mirai,Steller Sea Lion,13,21,Water
+0.447158031,2.322219295,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.8,210,F,3,Icy,Steller Sea Lion,18,21,Water
+0.342422681,2.330413773,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.2,214,F,3,Kiska,Steller Sea Lion,13,21,Water
+0.414973348,2.301029996,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.6,200,F,3,Sunny,Steller Sea Lion,4,21,Water
+0.51851394,2.892094603,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.3,780,M,3,Mirai,Steller Sea Lion,13,23,Water
+0.579783597,2.322219295,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.8,210,F,3,Icy,Steller Sea Lion,18,23,Water
+0.579783597,2.330413773,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.8,214,F,3,Kiska,Steller Sea Lion,13,23,Water
+0.819543936,2.269512944,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,6.6,186,F,3,Sunny,Steller Sea Lion,4,23,Water
+0.579783597,2.84509804,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.8,700,M,3,Mirai,Steller Sea Lion,13,23,Water
+0.556302501,2.322219295,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.6,210,F,3,Icy,Steller Sea Lion,18,23,Water
+0.579783597,2.330413773,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3.8,214,F,3,Kiska,Steller Sea Lion,13,23,Water
+0.748188027,2.269512944,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,5.6,186,F,3,Sunny,Steller Sea Lion,4,23,Water
+0.322219295,2.836324116,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.1,686,M,3,Mirai,Steller Sea Lion,13,23,Water
+0.414973348,2.328379603,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,2.6,213,F,3,Icy,Steller Sea Lion,18,23,Water
+0.477121255,2.336459734,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3,217,F,3,Kiska,Steller Sea Lion,13,23,Water
+0.477121255,2.269512944,Semiaquatic,Carnivora,Otariidae,Eumetopias,jubatus,3,186,F,3,Sunny,Steller Sea Lion,4,23,Water
+0.397940009,2.972665592,Semiaquatic,Carnivora,Odobenidae,Odobenus,rosmarus,2.5,939,M,2,Thor,Walrus,10,15,Water
+0.505149978,2.870988814,Semiaquatic,Carnivora,Odobenidae,Odobenus,rosmarus,3.2,743,M,3,Garik,Walrus,12,16,Water
+0.568201724,2.972665592,Semiaquatic,Carnivora,Odobenidae,Odobenus,rosmarus,3.7,939,M,2,Thor,Walrus,10,20,Air
+0.278753601,2.770115295,Semiaquatic,Carnivora,Odobenidae,Odobenus,rosmarus,1.9,589,F,2,Frosya,Walrus,12,21,Air
+0.301029996,2.971275849,Semiaquatic,Carnivora,Odobenidae,Odobenus,rosmarus,2,936,M,2,Thor,Walrus,10,16,Water
+0.255272505,2.872156273,Semiaquatic,Carnivora,Odobenidae,Odobenus,rosmarus,1.8,745,M,1,Garik,Walrus,12,20,Air
+1.21,2.265,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,16.21810097,184,M,1,Karl,South American Tapir,12,15,Air
+1.322,2.265,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,20.98939884,184,M,1,Karl,South American Tapir,12,15,Air
+1.182,2.265,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,15.2054753,184,M,1,Karl,South American Tapir,12,14.4,Air
+1.23,2.367,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,16.98243652,232.6,F,1,Tris,South American Tapir,15,15,Air
+1.247,2.367,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,17.66037821,232.6,F,1,Tris,South American Tapir,15,15,Air
+1.352,2.367,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,22.49054606,232.6,F,1,Tris,South American Tapir,15,15,Air
+1.097,2.367,Terrestrial,Perissodactyla,Tapiridae,Tapirus,terrestris,12.5025903,232.6,F,1,Tris,South American Tapir,15,14.4,Air
+0.852,3.342,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,7.112135137,2200,M,1,Banyari,White Rhinoceros,25,17.7,Air
+0.954,3.27,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,8.994975815,1862,F,1,Imfolizi,White Rhinoceros,32,15,Air
+0.643,3.26,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,4.395416154,1820,F,1,Imfolozi,White Rhinoceros,32,14,Air
+0.954,3.26,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,8.994975815,1820,F,1,Imfolozi,White Rhinoceros,32,14,Air
+0.681,3.26,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,4.797334486,1820,F,1,Imfolozi,White Rhinoceros,32,14.4,Air
+0.903,3.26,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,7.99834255,1820,F,1,Imfolozi,White Rhinoceros,32,14.8,Air
+0.929,3.27,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,8.49180475,1862,F,1,Imfolozi,White Rhinoceros,32,15,Air
+0.978,3.27,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,9.506047937,1862,F,1,Imfolozi,White Rhinoceros,32,15,Air
+0.732,3.33,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,5.395106225,2138,F,1,Namakula,White Rhinoceros,26,14,Air
+0.991,3.332,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,9.794899854,2150,F,1,Namakula,White Rhinoceros,26,14,Air
+0.716,3.332,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,5.199959965,2150,F,1,Namakula,White Rhinoceros,26,14.4,Air
+0.806,3.332,Terrestrial,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,6.397348355,2150,F,1,Namakula,White Rhinoceros,26,14.8,Air
+0.985,3.597,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,9.66050879,3950,F,1,Bua,Asian Elephant,26,18,Air
+0.919,3.597,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,8.298507675,3950,F,1,Bua,Asian Elephant,26,17.7,Air
+0.732,3.597,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,5.395106225,3950,F,1,Bua,Asian Elephant,26,17.7,Air
+0.855,3.524,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,7.161434102,3340,F,1,Saonoi,Asian Elephant,27,18,Air
+0.699,3.524,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,5.00034535,3340,F,1,Saonoi,Asian Elephant,27,17.7,Air
+0.806,3.524,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,6.397348355,3340,F,1,Saonoi,Asian Elephant,27,17.7,Air
+0.732,3.722,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,5.395106225,5270,M,1,Tonsak,Asian Elephant,25,17.7,Air
+0.716,3.722,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,5.199959965,5270,M,1,Tonsak,Asian Elephant,25,17.7,Air
+0.243,3.722,Terrestrial,Proboscidea,Elephantidae,Elephas,maximus,1.749846689,5270,M,1,Tonsak,Asian Elephant,25,18,Air
+1.646,1.633,Terrestrial,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,44.25883724,43,F,1,Capytan,Capybara,1,15,Air
+1.595,1.633,Terrestrial,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,39.35500755,43,F,1,Capytan,Capybara,1,15,Air
+1.524,1.633,Terrestrial,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,33.419504,43,F,1,Capytan,Capybara,1,14.4,Air
+1.358,1.74,Terrestrial,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,22.80342072,55,M,1,Kenneth,Capybara,5,15,Air
+1.469,1.74,Terrestrial,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,29.44421634,55,M,1,Kenneth,Capybara,5,15,Air
+1.519,1.74,Terrestrial,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,33.0369541,55,M,1,Kenneth,Capybara,5,14.4,Air
+0.079,2.954,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,1.199499303,900,F,1,Clarity,Florida Manatee,14,26.5,Water
+0.079,2.954,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,1.199499303,900,F,1,Clarity,Florida Manatee,14,26,Water
+-0.097,2.954,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,0.799834255,900,F,1,Clarity,Florida Manatee,14,26.4,Water
+-0.398,3.301,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,0.39994475,2000,F,1,Juliet,Florida Manatee,65,26.5,Water
+-0.398,3.301,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,0.39994475,2000,F,1,Juliet,Florida Manatee,65,26,Water
+-0.699,3.301,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,0.199986187,2000,F,1,Juliet,Florida Manatee,65,26.4,Water
+0.204,3.204,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,1.599558029,1600,M,1,Romeo,Florida Manatee,66,26,Water
+0.079,3.204,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,1.199499303,1600,M,2,Romeo,Florida Manatee,66,26.4,Water
+-0.097,3.204,Aquatic,Sirenia,Trichechidae,Trichechus,manatus latirostris,0.799834255,1600,M,2,Romeo,Florida Manatee,66,27,Water
+-0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Africa,Manatee,6,26.98,Water
+-0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Africa,Manatee,6,27.15,Water
+-0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Africa,Manatee,6,27.41,Water
+-0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,F,2,Bombón,Manatee,7,31.44,Water
+-0.699,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,250,F,2,Bombón,Manatee,7,31.54,Water
+-0.699,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,250,F,1,Bombón,Manatee,7,31.59,Water
+-0.398,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,300,M,1,César,Manatee,16,31.1,Water
+-0.097,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,300,M,2,César,Manatee,16,31.33,Water
+-0.398,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,300,M,2,César,Manatee,16,31.31,Water
+-0.097,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,1650,F,1,Conchis,Manatee,9,26.98,Water
+-0.222,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,1650,F,2,Conchis,Manatee,9,27.15,Water
+-0.222,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,1650,F,1,Conchis,Manatee,9,27.41,Water
+-0.398,2.699,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,500,F,2,Dorothy,Manatee,20,31.44,Water
+-0.222,2.699,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,500,F,2,Dorothy,Manatee,20,31.54,Water
+-0.699,2.699,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,500,F,1,Dorothy,Manatee,20,31.59,Water
+-0.699,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,300,M,1,Fabián,Manatee,23,31.1,Water
+-0.222,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.599791076,300,M,2,Fabián,Manatee,23,31.33,Water
+-0.699,2.477,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,300,M,2,Fabián,Manatee,23,31.31,Water
+-0.398,2.778,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,600,F,1,Julietas,Manatee,22,31.44,Water
+-0.398,2.778,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,600,F,2,Julietas,Manatee,22,31.54,Water
+-0.699,2.778,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,600,F,2,Julietas,Manatee,22,31.59,Water
+-0.097,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.799834255,250,F,2,Michelín,Manatee,5,31.44,Water
+0.079,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,1.199499303,250,F,2,Michelín,Manatee,5,31.54,Water
+-0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,F,1,Michelín,Manatee,5,31.59,Water
+-0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,M,1,Quijote,Manatee,15,31.1,Water
+-0.796,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.159955803,250,M,1,Quijote,Manatee,15,31.33,Water
+-0.398,2.398,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,250,M,2,Quijote,Manatee,15,31.31,Water
+-0.699,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,1650,F,1,Sabina,Manatee,16,26.98,Water
+-0.398,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,1650,F,1,Sabina,Manatee,16,27.15,Water
+-0.699,3.217,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.199986187,1650,F,1,Sabina,Manatee,16,27.41,Water
+-0.398,2.301,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,200,F,2,Sassil,Manatee,3,31.44,Water
+-0.398,2.301,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,200,F,1,Sassil,Manatee,3,31.54,Water
+-0.398,2.301,Aquatic,Sirenia,Trichechidae,Trichechus,manatus,0.39994475,200,F,2,Sassil,Manatee,3,31.59,Water

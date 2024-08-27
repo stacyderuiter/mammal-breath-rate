@@ -42,7 +42,7 @@ theme_set(theme_minimal(base_size = 12))
 
 Raw data files can be found at:
 
-<https://stacyderuiter.github.io/mammal-breath-rate/data/breath-rate-FINAL.csv>
+<https://stacyderuiter.github.io/mammal-breath-rate/data/breath-rate-FINAL-clean.csv>
 <https://stacyderuiter.github.io/mammal-breath-rate/data/additional-species.xlsx>
 
 # Analysis
@@ -79,10 +79,12 @@ breath_data <- breath_data |>
   mutate(activity_level = factor(activity_level),
          habitat = factor(habitat),
          location = factor(location)) |>
-  drop_na()
+  drop_na(log_fr, log_Mb, habitat, activity_level, temp, location, order, family, genus, species, individual_name)
 
 breath_data <- breath_data |>
   arrange(order, common_name)
+
+write_csv(breath_data, 'data/breath-rate-FINAL-clean.csv')
 
 glimpse(breath_data)
 ```
@@ -164,13 +166,11 @@ slope_comparison <- emtrends(breath_model,
          pairwise ~ habitat,
          var = "log_Mb")
 slope_comparison
-slope_comparison <- as.data.frame(slope_comparison$contrasts)
-slope_comparison
 ```
 
 The top part of the output gives a slope for each habitat with CIs. The lower "contrasts" part is where we'll focus now: it gives the p-values for the tests comparing each pair of habitats.
 
-We have weak to moderate (for aquatic/terrestrial, p = `r slope_comparison["Aquatic - Terrestrial", "p.value"]`) and moderate (for semiaquatic - terrestrial, p = `r slope_comparison["Semiaquatic - Terrestrial", "p.value"]`) evidence that terrestrial habitats are different from the others. But we have no evidence (p =`r slope_comparison["Aquatic - Semiaquatic", "p.value"]`) that the slopes are different between aquatic and semiaquatic.
+We have moderate evidence that terrestrial habitats are different from the others. But we have no evidence that the slopes are different between aquatic and semiaquatic.
 
 ## Model Predictions
 

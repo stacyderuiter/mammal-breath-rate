@@ -29,7 +29,7 @@ knitr::opts_chunk$set(
   # file type for image files (can also be eps, jpeg, ...)
   dev = 'png',
   # resolution for image files
-  dpi = 300,
+  dpi = 600,
   warning = FALSE,
   message = FALSE,
   fig.width = 6.5, 
